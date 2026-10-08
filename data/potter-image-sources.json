@@ -1,0 +1,4002 @@
+{
+  "feast": {
+    "film": 4,
+    "caption": "Dumbledore pointing in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-pointing-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-pointing-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 7
+  },
+  "castle": {
+    "film": 8,
+    "caption": "Protections cover Hogwarts castle",
+    "imageUrl": "https://media.harrypotterfanzone.com/protections-cover-hogwarts-castle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/protections-cover-hogwarts-castle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 13
+  },
+  "writing": {
+    "film": 2,
+    "caption": "Writing in Tom Riddle’s diary",
+    "imageUrl": "https://media.harrypotterfanzone.com/writing-in-tom-riddles-diary.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/writing-in-tom-riddles-diary/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 13
+  },
+  "third": {
+    "film": 4,
+    "caption": "Harry after the Third Task",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-after-the-third-task.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-after-the-third-task/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 12
+  },
+  "portrait": {
+    "film": 3,
+    "caption": "Portrait of Petunia, Dudley and Vernon Dursley",
+    "imageUrl": "https://media.harrypotterfanzone.com/petunia-dudley-vernon-dursley-prisoner-of-azkaban-portrait.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/petunia-dudley-vernon-dursley-prisoner-of-azkaban-portrait/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 12
+  },
+  "phoenix": {
+    "film": 8,
+    "caption": "The Order of the Phoenix leave the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-order-of-the-phoenix-leave-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-order-of-the-phoenix-leave-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 12
+  },
+  "corridor": {
+    "film": 5,
+    "caption": "Harry in the Ministry corridor",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-ministry-corridor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-ministry-corridor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 12
+  },
+  "magic": {
+    "film": 5,
+    "caption": "Voldemort in the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-crouches-down-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-crouches-down-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 12
+  },
+  "over": {
+    "film": 5,
+    "caption": "Umbridge watches over O.W.L exams",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-watches-over-owl-exams.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-watches-over-owl-exams/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 12
+  },
+  "grave": {
+    "film": 7,
+    "caption": "Lily and James Potter’s grave",
+    "imageUrl": "https://media.harrypotterfanzone.com/lily-and-james-potters-grave.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lily-and-james-potters-grave/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 12
+  },
+  "tent": {
+    "film": 7,
+    "caption": "Harry in the wedding tent",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-wedding-tent.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-wedding-tent/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 12
+  },
+  "director": {
+    "film": 6,
+    "caption": "Ron is nervous at Quidditch tryouts",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-nervous-at-quidditch-tryouts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-nervous-at-quidditch-tryouts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "shell": {
+    "film": 8,
+    "caption": "Hermione, Harry and the mirror fragment",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-hermione-and-the-mirror-fragment.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-hermione-and-the-mirror-fragment/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "walking": {
+    "film": 1,
+    "caption": "Walking through Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/walking-through-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/walking-through-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 12
+  },
+  "attack": {
+    "film": 6,
+    "caption": "Death Eaters attack the bridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/death-eaters-attack-the-bridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/death-eaters-attack-the-bridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 12
+  },
+  "horror": {
+    "film": 8,
+    "caption": "Voldemort and the Death Eaters in the Forbidden Forest",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-and-the-death-eaters-in-the-forbidden-forest.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-and-the-death-eaters-in-the-forbidden-forest/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "cross": {
+    "film": 1,
+    "caption": "Harry pushes his trunk at King’s Cross",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-pushes-his-trunk-at-kings-cross.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-pushes-his-trunk-at-kings-cross/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 12
+  },
+  "hearing": {
+    "film": 5,
+    "caption": "Dumbledore at Harry’s hearing",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-at-harrys-hearing.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-at-harrys-hearing/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 12
+  },
+  "platform": {
+    "film": 5,
+    "caption": "Harry and Sirius at King’s Cross Station",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-sirius-kings-cross.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-sirius-kings-cross/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 7
+  },
+  "set": {
+    "film": 8,
+    "caption": "Ron looks angry",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-looks-angry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-looks-angry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "part": {
+    "film": 8,
+    "caption": "Robbie Coltrane and Dan Radcliffe",
+    "imageUrl": "https://media.harrypotterfanzone.com/robbie-coltrane-and-dan-radcliffe.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/robbie-coltrane-and-dan-radcliffe/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "final": {
+    "film": 8,
+    "caption": "Harry during the final battle",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-during-the-final-battle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-during-the-final-battle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 12
+  },
+  "destruction": {
+    "film": 8,
+    "caption": "Slughorn watches the destruction",
+    "imageUrl": "https://media.harrypotterfanzone.com/slughorn-watches-the-destruction.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slughorn-watches-the-destruction/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 12
+  },
+  "surround": {
+    "film": 3,
+    "caption": "Dementors surround Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/dementors-surround-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dementors-surround-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 12
+  },
+  "burn": {
+    "film": 6,
+    "caption": "Ron, Hermione and Harry talking at the Burrow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-talking-at-the-burrow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-talking-at-the-burrow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "pick": {
+    "film": 8,
+    "caption": "The Malfoys pick a side",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-malfoys-pick-a-side.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-malfoys-pick-a-side/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 12
+  },
+  "owl": {
+    "film": 2,
+    "caption": "An owl lands in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/an-owl-lands-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/an-owl-lands-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 12
+  },
+  "imagination": {
+    "film": 1,
+    "caption": "Harry holds Hedwig",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-holds-hedwig-1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-holds-hedwig-2/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "giant": {
+    "film": 1,
+    "caption": "Harry and Quirrell",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-quirrell.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-quirrell/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "spider": {
+    "film": 4,
+    "caption": "Ron with a spider on his head",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-with-a-spider-on-his-head.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-with-a-spider-on-his-head/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 12
+  },
+  "flight": {
+    "film": 8,
+    "caption": "Harry and Voldemort about to take flight",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-voldemort-about-to-take-flight.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-voldemort-about-to-take-flight/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 12
+  },
+  "receive": {
+    "film": 5,
+    "caption": "The Inquisitorial Squad receive awards",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-inquisitorial-squad-receive-awards.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-inquisitorial-squad-receive-awards/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 12
+  },
+  "ancient": {
+    "film": 5,
+    "caption": "Dumbledore at the Hogwarts doors",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-at-the-hogwarts-doors.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-at-the-hogwarts-doors/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 7
+  },
+  "treasure": {
+    "film": 6,
+    "caption": "Holding the locket Horcrux",
+    "imageUrl": "https://media.harrypotterfanzone.com/holding-the-locket-horcrux.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/holding-the-locket-horcrux/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 7
+  },
+  "powerful": {
+    "film": 5,
+    "caption": "Dumbledore casts a spell in the Ministry",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-casts-a-spell-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-casts-a-spell-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 7
+  },
+  "legend": {
+    "film": 7,
+    "caption": "Xenophilius Lovegood explains the Deathly Hallows",
+    "imageUrl": "https://media.harrypotterfanzone.com/xenophilius-lovegood-explains-the-deathly-hallows.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/xenophilius-lovegood-explains-the-deathly-hallows/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 7
+  },
+  "wise": {
+    "film": 4,
+    "caption": "Barty Crouch, Snape, Dumbledore and McGonagall",
+    "imageUrl": "https://media.harrypotterfanzone.com/barty-crouch-snape-and-dumbledore.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/barty-crouch-snape-and-dumbledore/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 7
+  },
+  "friendship": {
+    "film": 4,
+    "caption": "The trio at the Yule Ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-at-the-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-at-the-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 6
+  },
+  "coin": {
+    "film": 1,
+    "caption": "Harry in Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 6
+  },
+  "prize": {
+    "film": 1,
+    "caption": "Gryffindor wins the House Cup",
+    "imageUrl": "https://media.harrypotterfanzone.com/gryffindor-wins-the-house-cup.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gryffindor-wins-the-house-cup/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 6
+  },
+  "defend": {
+    "film": 8,
+    "caption": "Watching the courtyard battle",
+    "imageUrl": "https://media.harrypotterfanzone.com/watching-the-courtyard-battle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/watching-the-courtyard-battle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 6
+  },
+  "curious": {
+    "film": 8,
+    "caption": "Hermione looks pensive",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-looks-pensive.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-looks-pensive/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 6
+  },
+  "romantic": {
+    "film": 7,
+    "caption": "Ginny and Harry kiss",
+    "imageUrl": "https://media.harrypotterfanzone.com/ginny-and-harry-kiss.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ginny-and-harry-kiss/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 6
+  },
+  "courage": {
+    "film": 8,
+    "caption": "Arthur and Ginny Weasley during battle",
+    "imageUrl": "https://media.harrypotterfanzone.com/arthur-weasley-and-ginny-during-battle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/arthur-weasley-and-ginny-during-battle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 6
+  },
+  "childhood": {
+    "film": 6,
+    "caption": "Dumbledore visits young Tom Riddle",
+    "imageUrl": "https://media.harrypotterfanzone.com/young-tom-riddle-half-blood-prince.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/young-tom-riddle-half-blood-prince/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 6
+  },
+  "heal": {
+    "film": 2,
+    "caption": "Harry in the Hospital Wing",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-hospital-wing.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-hospital-wing/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 6
+  },
+  "journey": {
+    "film": 6,
+    "caption": "Harry at the train station",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-at-the-train-station.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-at-the-train-station/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 6
+  },
+  "seek": {
+    "film": 3,
+    "caption": "The trio look out of Hagrid’s Hut",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-look-out-of-hagrids-window.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-look-out-of-hagrids-window/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 6
+  },
+  "creature": {
+    "film": 8,
+    "caption": "Dragon fire at Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/dragon-fire-at-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dragon-fire-at-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 6
+  },
+  "rescue": {
+    "film": 2,
+    "caption": "Dobby protects Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/dobby-protects-harry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dobby-protects-harry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 6
+  },
+  "gate": {
+    "film": 6,
+    "caption": "Harry and Dumbledore at the cave entrance",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-dumbeldore-at-the-cave-entrance.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-dumbeldore-at-the-cave-entrance/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 6
+  },
+  "adventure": {
+    "film": 4,
+    "caption": "Amos Diggory travels to the Quidditch World Cup",
+    "imageUrl": "https://media.harrypotterfanzone.com/amos-diggory-travels-to-the-quidditch-world-cup.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/amos-diggory-travels-to-the-quidditch-world-cup/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 6
+  },
+  "joy": {
+    "film": 1,
+    "caption": "Gryffindor celebrates the House Cup",
+    "imageUrl": "https://media.harrypotterfanzone.com/gryffindor-celebrates-the-house-cup.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gryffindor-celebrates-the-house-cup/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 6
+  },
+  "lock": {
+    "film": 1,
+    "caption": "‘Does Mr. Harry Potter have his key?’",
+    "imageUrl": "https://media.harrypotterfanzone.com/does-mr-harry-potter-have-his-key.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/does-mr-harry-potter-have-his-key/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 6
+  },
+  "hero": {
+    "film": 3,
+    "caption": "Hermione, Harry and Buckbeak",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-harry-and-buckbeak.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-harry-and-buckbeak/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "weak": {
+    "film": 3,
+    "caption": "Sirius Black sighted",
+    "imageUrl": "https://media.harrypotterfanzone.com/sirius-black-sighted.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/sirius-black-sighted/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "silver": {
+    "film": 4,
+    "caption": "Death Eaters at the Quidditch World Cup",
+    "imageUrl": "https://media.harrypotterfanzone.com/death-eaters-at-the-quidditch-world-cup.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/death-eaters-at-the-quidditch-world-cup/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "rock": {
+    "film": 2,
+    "caption": "Harry and Gilderoy Lockhart at Flourish and Blotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-lockhart-at-flourish-and-blotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-lockhart-at-flourish-and-blotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "award": {
+    "film": 2,
+    "caption": "Cornish Pixie mayhem",
+    "imageUrl": "https://media.harrypotterfanzone.com/cornish-pixie-mayhem.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cornish-pixie-mayhem/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "rare": {
+    "film": 4,
+    "caption": "Harry in the Owlery",
+    "imageUrl": "https://media.harrypotterfanzone.com/goblet-of-fire-harry-in-the-owlery.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/goblet-of-fire-harry-in-the-owlery/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "ordinary": {
+    "film": 3,
+    "caption": "Carriage ride to Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/carriage-ride-to-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/carriage-ride-to-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "decision": {
+    "film": 7,
+    "caption": "Dumbledore falls to his death",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-falls-to-his-death.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-falls-to-his-death/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "myth": {
+    "film": 7,
+    "caption": "Rufus Scrimgeour reads Dumbledore’s will",
+    "imageUrl": "https://media.harrypotterfanzone.com/rufus-scrimgeour-reads-dumbledores-will.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rufus-scrimgeour-reads-dumbledores-will/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "next": {
+    "film": 3,
+    "caption": "Hiding behind the pumpkins",
+    "imageUrl": "https://media.harrypotterfanzone.com/hiding-behind-the-pumpkins.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hiding-behind-the-pumpkins/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "report": {
+    "film": 4,
+    "caption": "Harry falls into the Pensieve",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-falls-into-the-pensieve.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-falls-into-the-pensieve/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "around": {
+    "film": 2,
+    "caption": "Lucius and Draco Malfoy",
+    "imageUrl": "https://media.harrypotterfanzone.com/lucius-and-draco-malfoy-coridor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lucius-and-draco-malfoy-coridor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "interest": {
+    "film": 2,
+    "caption": "Harry and Ron crash into the Whomping Willow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-crash-into-the-whomping-willow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-crash-into-the-whomping-willow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "running": {
+    "film": 4,
+    "caption": "Cho Chang and Ravenclaw students",
+    "imageUrl": "https://media.harrypotterfanzone.com/cho-chang-and-ravenclaw-students.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cho-chang-and-ravenclaw-students/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "law": {
+    "film": 3,
+    "caption": "Lupin in Defence Against the Dark Arts",
+    "imageUrl": "https://media.harrypotterfanzone.com/lupins-dark-arts-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lupins-dark-arts-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "few": {
+    "film": 7,
+    "caption": "Hermione casts defensive spells",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-casts-defensive-spells.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-casts-defensive-spells/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "figure": {
+    "film": 5,
+    "caption": "Hermione in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "serve": {
+    "film": 6,
+    "caption": "Harry and Neville at Slughorn’s Christmas party",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-neville-and-slughorns-party.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-neville-and-slughorns-party/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "wild": {
+    "film": 6,
+    "caption": "Harry and Ron on the Hogwarts Express",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-on-the-hogwarts-express.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-on-the-hogwarts-express/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "forward": {
+    "film": 5,
+    "caption": "Harry and Cho in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-cho-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-cho-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "opinion": {
+    "film": 7,
+    "caption": "Xenophilius Lovegood with the Deathly Hallows necklace",
+    "imageUrl": "https://media.harrypotterfanzone.com/xenophilius-lovegood-deathly-hallows-necklace.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/xenophilius-lovegood-deathly-hallows-necklace/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "base": {
+    "film": 3,
+    "caption": "Harry shields Hermione",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-shields-hermione.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-shields-hermione/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "beginning": {
+    "film": 4,
+    "caption": "Dumbledore looks into the Pensieve",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-looks-into-the-pensieve.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-looks-into-the-pensieve/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "million": {
+    "film": 2,
+    "caption": "Hermione completing homework",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-completing-homework.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-completing-homework/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "given": {
+    "film": 2,
+    "caption": "Portrait of Harry Potter and Ron Weasley",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-chamber-of-secrets-portrait-2.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-chamber-of-secrets-portrait-2/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "apart": {
+    "film": 4,
+    "caption": "Harry enters Dumbledore’s office",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-enters-dumbledores-office.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-enters-dumbledores-office/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "split": {
+    "film": 3,
+    "caption": "Rosmerta, Fudge and McGonagall enter The Three Broomsticks",
+    "imageUrl": "https://media.harrypotterfanzone.com/rosmerta-fudge-and-mcgonagall-outside-the-three-broomsticks.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rosmerta-fudge-and-mcgonagall-outside-the-three-broomsticks/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "speed": {
+    "film": 7,
+    "caption": "Bathilda Bagshot with candle",
+    "imageUrl": "https://media.harrypotterfanzone.com/bathilda-bagshot-by-candle-light.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/bathilda-bagshot-by-candle-light/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "normal": {
+    "film": 5,
+    "caption": "Fudge in the Ministry",
+    "imageUrl": "https://media.harrypotterfanzone.com/fudge-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fudge-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "permission": {
+    "film": 6,
+    "caption": "Following Draco Malfoy",
+    "imageUrl": "https://media.harrypotterfanzone.com/following-draco-malfoy.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/following-draco-malfoy/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "low": {
+    "film": 6,
+    "caption": "Filch catches Draco at Slughorn’s party",
+    "imageUrl": "https://media.harrypotterfanzone.com/filch-catches-draco-at-slughorns-party.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filch-catches-draco-at-slughorns-party/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "human": {
+    "film": 5,
+    "caption": "Harry contemplating",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-contemplating.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-contemplating/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "emergency": {
+    "film": 7,
+    "caption": "Harry and Ron make fire",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-make-fire.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-make-fire/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "citizen": {
+    "film": 3,
+    "caption": "Hermione in Hogsmeade",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-in-hogsmeade.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-in-hogsmeade/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "plate": {
+    "film": 4,
+    "caption": "Professor McGonagall enjoys a drink",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mcgonagall-enjoys-a-drink.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mcgonagall-enjoys-a-drink/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "exist": {
+    "film": 2,
+    "caption": "Lucius Malfoy arrives at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/lucius-malfoy-arrives-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lucius-malfoy-arrives-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "raise": {
+    "film": 1,
+    "caption": "Hermione in Charms class",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-in-charms-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-in-charms-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "wet": {
+    "film": 1,
+    "caption": "Harry Potter is sorted",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-potter-is-sorted.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-potter-is-sorted/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "unusual": {
+    "film": 2,
+    "caption": "Dumbledore, Harry and Lucius Malfoy",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-harry-and-lucius-malfoy.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-harry-and-lucius-malfoy/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "area": {
+    "film": 4,
+    "caption": "Weasley twins with beards",
+    "imageUrl": "https://media.harrypotterfanzone.com/weasley-twins-with-beards.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/weasley-twins-with-beards/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "wine": {
+    "film": 3,
+    "caption": "Ron in Defence Against the Dark Arts",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-dark-arts-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-dark-arts-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "agent": {
+    "film": 7,
+    "caption": "Hermione by the fire",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-by-the-fire.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-by-the-fire/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "roll": {
+    "film": 5,
+    "caption": "Harry and Cho kiss",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-cho-kiss.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-cho-kiss/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "meaning": {
+    "film": 6,
+    "caption": "Romilda Vane",
+    "imageUrl": "https://media.harrypotterfanzone.com/romilda-vane-studies.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/romilda-vane-studies/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "concern": {
+    "film": 6,
+    "caption": "Dumbledore sits on the steps",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-sits-on-the-steps.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-sits-on-the-steps/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "suggest": {
+    "film": 5,
+    "caption": "Luna casts a Patronus",
+    "imageUrl": "https://media.harrypotterfanzone.com/luna-casts-a-patronus.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/luna-casts-a-patronus/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "ring": {
+    "film": 7,
+    "caption": "The extended Malfoy family in the Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-extended-malfoy-family-in-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-extended-malfoy-family-in-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "extra": {
+    "film": 3,
+    "caption": "Professor McGonagall and Argus Filch",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mcgonagall-and-argus-filch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mcgonagall-and-argus-filch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "possibly": {
+    "film": 4,
+    "caption": "Professor McGonagall with wand at the ready",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mcgonagall-with-wand-at-the-ready.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mcgonagall-with-wand-at-the-ready/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "direct": {
+    "film": 2,
+    "caption": "Colin Creevey with camera",
+    "imageUrl": "https://media.harrypotterfanzone.com/colin-creevey-with-camera.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/colin-creevey-with-camera/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "delay": {
+    "film": 1,
+    "caption": "Albus Dumbledore",
+    "imageUrl": "https://media.harrypotterfanzone.com/albus-dumbledore-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/albus-dumbledore-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "wide": {
+    "film": 1,
+    "caption": "Harry with Hedwig",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-with-hedwig-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-with-hedwig-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "shape": {
+    "film": 2,
+    "caption": "Harry and Ron in the Trophy Room",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-in-the-trophy-room.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-in-the-trophy-room/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "belt": {
+    "film": 4,
+    "caption": "Harry examines his golden egg",
+    "imageUrl": "https://media.harrypotterfanzone.com/goblet-of-fire-harry-golden-egg.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/goblet-of-fire-harry-golden-egg/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "unit": {
+    "film": 3,
+    "caption": "Harry in Hogsmeade",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-hogsmeade.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-hogsmeade/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "replace": {
+    "film": 7,
+    "caption": "Ron destroys the locket Horcrux",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-destorys-the-locket-horcrux.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-destorys-the-locket-horcrux/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "liberty": {
+    "film": 5,
+    "caption": "Harry, Ron and Hermione in the Forbidden Forest",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-in-the-forbidden-forest.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-in-the-forbidden-forest/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "worst": {
+    "film": 6,
+    "caption": "Lavender Brown wishes Ron luck before Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/lavender-wishes-ron-luck.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lavender-wishes-ron-luck/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "soap": {
+    "film": 6,
+    "caption": "Draco Malfoy holds up his wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-malfoy-holds-up-his-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-malfoy-holds-up-his-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "success": {
+    "film": 5,
+    "caption": "Sirius and Harry in the Department of Mysteries",
+    "imageUrl": "https://media.harrypotterfanzone.com/sirius-and-harry-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/sirius-and-harry-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "violent": {
+    "film": 7,
+    "caption": "Draco in Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-in-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-in-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "chain": {
+    "film": 3,
+    "caption": "Ron, Hermione and Harry watch the execution",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-hermione-and-harry-watch-the-execution.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-hermione-and-harry-watch-the-execution/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "actually": {
+    "film": 4,
+    "caption": "Cedric Diggory and Cho Chang",
+    "imageUrl": "https://media.harrypotterfanzone.com/cedric-and-cho.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cedric-and-cho/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "government": {
+    "film": 2,
+    "caption": "Harry and Malfoy search for the Golden Snitch",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-malfoy-search-for-the-snitch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-malfoy-search-for-the-snitch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "challenge": {
+    "film": 1,
+    "caption": "Harry searches the library",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-searches-the-library.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-searches-the-library/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "screen": {
+    "film": 8,
+    "caption": "Harry, Ron, Hermione and Neville in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-hermione-neville-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-hermione-neville-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "rate": {
+    "film": 8,
+    "caption": "Harry, Hermione and Ron watch on",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-watch-on.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-watch-on/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "represent": {
+    "film": 1,
+    "caption": "Harry enters Diagon Alley",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-enters-diagon-alley.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-enters-diagon-alley/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "opposite": {
+    "film": 2,
+    "caption": "Hermione tames the Pixies",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-tames-the-pixies.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-tames-the-pixies/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "popular": {
+    "film": 4,
+    "caption": "Hermione, Ron and Harry in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-ron-and-harry-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-ron-and-harry-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "labor": {
+    "film": 3,
+    "caption": "Harry touches Buckbeak",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-touches-buckbeak.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-touches-buckbeak/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "capital": {
+    "film": 7,
+    "caption": "Harry fights Nagini in Godric’s Hollow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-fights-nagini-in-godrics-hollow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-fights-nagini-in-godrics-hollow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "cream": {
+    "film": 5,
+    "caption": "Ralph Fiennes, Helena Bonham-Carter, Michael Gambon and Dan Radcliffe",
+    "imageUrl": "https://media.harrypotterfanzone.com/ralph-fiennes-helena-bonham-carter-michael-gambon-dan-radcliffe.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ralph-fiennes-helena-bonham-carter-michael-gambon-dan-radcliffe/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "whole": {
+    "film": 6,
+    "caption": "Dumbledore and Harry at the train station",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-and-harry-at-the-train-station.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-and-harry-at-the-train-station/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "intelligence": {
+    "film": 6,
+    "caption": "At the Slug Club",
+    "imageUrl": "https://media.harrypotterfanzone.com/at-the-slug-club.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/at-the-slug-club/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "romance": {
+    "film": 5,
+    "caption": "The Advance Guard prepare to fly",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-advance-guard-prepare-to-fly.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-advance-guard-prepare-to-fly/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "heat": {
+    "film": 7,
+    "caption": "Harry explores Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-at-grimmauld-place-deathly-hallows-part-1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-at-grimmauld-place-deathly-hallows-part-1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "unknown": {
+    "film": 3,
+    "caption": "Hagrid and Buckbeak",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-and-buckbeak.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-and-buckbeak/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "electric": {
+    "film": 4,
+    "caption": "Viktor Krum with wand in the maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/viktor-krum-with-wand-in-the-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/viktor-krum-with-wand-in-the-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "pleasant": {
+    "film": 2,
+    "caption": "Hagrid down Knockturn Alley",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-down-knockturn-alley.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-down-knockturn-alley/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "deeply": {
+    "film": 1,
+    "caption": "Harry sits by the window",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-sits-by-the-window.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-sits-by-the-window/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "step": {
+    "film": 8,
+    "caption": "Griphook at Shell Cottage",
+    "imageUrl": "https://media.harrypotterfanzone.com/griphook-at-shell-cottage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/griphook-at-shell-cottage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "prefer": {
+    "film": 8,
+    "caption": "Tonks reaches for Lupin",
+    "imageUrl": "https://media.harrypotterfanzone.com/tonks-reaches-for-lupin.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tonks-reaches-for-lupin/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "extremely": {
+    "film": 1,
+    "caption": "Gryffindor Quidditch team",
+    "imageUrl": "https://media.harrypotterfanzone.com/gryffindor-quidditch-team.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gryffindor-quidditch-team/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "probably": {
+    "film": 2,
+    "caption": "Tom Riddle at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/tom-riddle-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tom-riddle-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "especially": {
+    "film": 4,
+    "caption": "Harry, Ron, Neville and Cedric in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-cedric-neville-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-cedric-neville-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "speaker": {
+    "film": 3,
+    "caption": "Dumbledore with hands raised",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-with-hands-raised.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-with-hands-raised/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "hundred": {
+    "film": 7,
+    "caption": "Defensive magic at Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/defensive-magic-at-the-entrace-to-grimmauld-place.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/defensive-magic-at-the-entrace-to-grimmauld-place/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "script": {
+    "film": 5,
+    "caption": "Dumbledore fights in the Ministry",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-fights-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-fights-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "simply": {
+    "film": 6,
+    "caption": "Slughorn in his office",
+    "imageUrl": "https://media.harrypotterfanzone.com/slughorn-in-his-office.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slughorn-in-his-office/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "angel": {
+    "film": 6,
+    "caption": "Hermione cries on Harry’s shoulder",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-cries-on-harrys-shoulder.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-cries-on-harrys-shoulder/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "zone": {
+    "film": 5,
+    "caption": "Harry in the playground",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-playground.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-playground/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "clearly": {
+    "film": 7,
+    "caption": "Voldemort in Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-at-the-head-of-the-table-in-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-at-the-head-of-the-table-in-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "pressure": {
+    "film": 3,
+    "caption": "Lupin and Harry on the bridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/lupin-and-harry-on-the-bridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lupin-and-harry-on-the-bridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "education": {
+    "film": 4,
+    "caption": "Mad-Eye Moody",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mad-eye-moody.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mad-eye-moody/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "queen": {
+    "film": 2,
+    "caption": "Draco and Harry duel",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-and-harry-duel.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-and-harry-duel/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "performance": {
+    "film": 1,
+    "caption": "Harry receives his wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-receives-his-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-receives-his-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "send": {
+    "film": 8,
+    "caption": "Filming Bellatrix’s death scene",
+    "imageUrl": "https://media.harrypotterfanzone.com/filming-bellatrixs-death-scene.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filming-bellatrixs-death-scene/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "however": {
+    "film": 8,
+    "caption": "Harry, Ron and Hermione amongst destruction",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-amongst-destruction.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-amongst-destruction/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "feature": {
+    "film": 1,
+    "caption": "Draco takes Neville’s Remembrall",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-with-nevilles-remembrall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-with-nevilles-remembrall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "source": {
+    "film": 2,
+    "caption": "Repotting Mandrakes",
+    "imageUrl": "https://media.harrypotterfanzone.com/repotting-mandrakes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/repotting-mandrakes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "unfortunately": {
+    "film": 4,
+    "caption": "Dumbledore extracting a memory",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-extracting-a-memory.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-extracting-a-memory/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "mostly": {
+    "film": 3,
+    "caption": "Harry in third year",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-third-year.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-third-year/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "ankle": {
+    "film": 7,
+    "caption": "Xenophilius Lovegood’s house is attacked",
+    "imageUrl": "https://media.harrypotterfanzone.com/xenophilius-lovegoods-house-is-attacked.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/xenophilius-lovegoods-house-is-attacked/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "satisfy": {
+    "film": 5,
+    "caption": "Harry and Sirius at Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-sirius-at-grimmauld-place.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-sirius-at-grimmauld-place/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "couple": {
+    "film": 6,
+    "caption": "Harry looks focused",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-looks-focused.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-looks-focused/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "fantastic": {
+    "film": 6,
+    "caption": "Tonks and Lupin watch the Burrow burn",
+    "imageUrl": "https://media.harrypotterfanzone.com/tonks-and-lupin-watch-the-burrow-burn.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tonks-and-lupin-watch-the-burrow-burn/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "elephant": {
+    "film": 5,
+    "caption": "Ron, Harry and Hermione in the Hog’s Head",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-harry-hermione-hogs-head.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-harry-hermione-hogs-head/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "therefore": {
+    "film": 7,
+    "caption": "Harry enters Bathilda Bagshot’s bedroom",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-enters-bathilda-bagshots-bedroom.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-enters-bathilda-bagshots-bedroom/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "production": {
+    "film": 3,
+    "caption": "Harry finds the Knight Bus",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-finds-the-knight-bus.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-finds-the-knight-bus/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "coast": {
+    "film": 4,
+    "caption": "Harry and Priori Incantatem",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-priori-incantatem.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-priori-incantatem/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "seem": {
+    "film": 2,
+    "caption": "Harry turns into Goyle",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-turns-into-goyle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-turns-into-goyle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "author": {
+    "film": 1,
+    "caption": "Harry, Ron and Hermione",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "useful": {
+    "film": 8,
+    "caption": "Helena Bonham Carter filming in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/helena-bonham-carter-filming-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/helena-bonham-carter-filming-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "tear": {
+    "film": 8,
+    "caption": "Harry, Ron and Hermione looking upwards",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-looking-upwards.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-looking-upwards/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "sandy": {
+    "film": 1,
+    "caption": "An owl in Privet Drive",
+    "imageUrl": "https://media.harrypotterfanzone.com/an-owl-in-privet-drive.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/an-owl-in-privet-drive/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "additional": {
+    "film": 2,
+    "caption": "Harry at the Dursleys",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-at-the-dursleys-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-at-the-dursleys-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "shot": {
+    "film": 4,
+    "caption": "Harry and Parvati dance",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-parvati-dance.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-parvati-dance/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "chapter": {
+    "film": 3,
+    "caption": "Snape protects the trio",
+    "imageUrl": "https://media.harrypotterfanzone.com/snape-protects-the-trio.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/snape-protects-the-trio/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "wool": {
+    "film": 7,
+    "caption": "Hermione, Ron and Harry addressed by Scrimgeour",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-ron-and-harry-addressed-by-scrimgeour.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-ron-and-harry-addressed-by-scrimgeour/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "fog": {
+    "film": 5,
+    "caption": "Ron in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "silence": {
+    "film": 6,
+    "caption": "Luna with her Lion Hat",
+    "imageUrl": "https://media.harrypotterfanzone.com/luna-with-her-lion-hat.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/luna-with-her-lion-hat/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "entertainment": {
+    "film": 6,
+    "caption": "Cormac McLaggen guards the goal",
+    "imageUrl": "https://media.harrypotterfanzone.com/cormac-mclaggen-guards-the-goal.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cormac-mclaggen-guards-the-goal/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "bit": {
+    "film": 5,
+    "caption": "Umbridge on the Forest floor",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-on-the-forest-floor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-on-the-forest-floor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "lack": {
+    "film": 7,
+    "caption": "Fred and George Weasley in Privet Drive",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-weasley-at-privet-drive.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-weasley-at-privet-drive/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "fry": {
+    "film": 3,
+    "caption": "Hermione and Professor Trelawney",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-professor-trelawney.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-professor-trelawney/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "weigh": {
+    "film": 4,
+    "caption": "Quidditch campsite burns",
+    "imageUrl": "https://media.harrypotterfanzone.com/quidditch-campsite-burns.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/quidditch-campsite-burns/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "breeze": {
+    "film": 2,
+    "caption": "Harry slays the Basilisk",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-slays-the-basilisk.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-slays-the-basilisk/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "balloon": {
+    "film": 1,
+    "caption": "Ron Weasley",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-weasley-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-weasley-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "influence": {
+    "film": 8,
+    "caption": "Harry on a bridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-on-a-bridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-on-a-bridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "spill": {
+    "film": 8,
+    "caption": "The Order of the Phoenix prepares to fight",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-order-of-the-phoenix-prepares-to-fight.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-order-of-the-phoenix-prepares-to-fight/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "fairly": {
+    "film": 1,
+    "caption": "Arriving at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/arriving-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/arriving-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "ever": {
+    "film": 2,
+    "caption": "Malfoy on his broom",
+    "imageUrl": "https://media.harrypotterfanzone.com/malfoy-on-his-broom.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/malfoy-on-his-broom/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "schedule": {
+    "film": 4,
+    "caption": "McGonagall and Dumbledore dance",
+    "imageUrl": "https://media.harrypotterfanzone.com/mcgonagall-and-dumbledore-dance.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mcgonagall-and-dumbledore-dance/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "scenery": {
+    "film": 3,
+    "caption": "Aunt Marge blows up",
+    "imageUrl": "https://media.harrypotterfanzone.com/aunt-marge-blows-up.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/aunt-marge-blows-up/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "credit": {
+    "film": 7,
+    "caption": "Snape at Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/snape-at-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/snape-at-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "pan": {
+    "film": 5,
+    "caption": "Harry during Occlumency lessons",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-pajamas-snapes-office.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-pajamas-snapes-office/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "slice": {
+    "film": 6,
+    "caption": "Fred and George at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-at-weasleys-wizard-wheezes-4.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-at-weasleys-wizard-wheezes-4/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "addition": {
+    "film": 6,
+    "caption": "Shooting at the Burrow",
+    "imageUrl": "https://media.harrypotterfanzone.com/shooting-at-the-burrow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/shooting-at-the-burrow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "lip": {
+    "film": 5,
+    "caption": "Draco, Neville, Crabbe and Hermione",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-neville-crabbe-and-hermione.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-neville-crabbe-and-hermione/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "bug": {
+    "film": 7,
+    "caption": "Voldemort enters Dumbledore’s tomb",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-enters-dumbeldores-tomb.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-enters-dumbeldores-tomb/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "clerk": {
+    "film": 3,
+    "caption": "Filch and Dumbledore look for the Fat Lady",
+    "imageUrl": "https://media.harrypotterfanzone.com/filch-and-dumbledore-look-for-the-fat-lady.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filch-and-dumbledore-look-for-the-fat-lady/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "fee": {
+    "film": 4,
+    "caption": "Moody takes Harry from the maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/moody-takes-harry-from-the-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/moody-takes-harry-from-the-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "campus": {
+    "film": 2,
+    "caption": "The Chamber of Secrets has been opened",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-chamber-of-secrets-has-been-opened.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-chamber-of-secrets-has-been-opened/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "plastic": {
+    "film": 1,
+    "caption": "Professor Quirrell and the Mirror of Erised",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-quirrell-and-the-mirror-of-erised.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-quirrell-and-the-mirror-of-erised/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "proper": {
+    "film": 8,
+    "caption": "Fleur and Bill at Shell Cottage",
+    "imageUrl": "https://media.harrypotterfanzone.com/fleur-and-bill-at-shell-cottage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fleur-and-bill-at-shell-cottage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "cent": {
+    "film": 8,
+    "caption": "Harry escapes falling rubble",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-escapes-falling-rubble.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-escapes-falling-rubble/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "freeze": {
+    "film": 1,
+    "caption": "Finding Fluffy",
+    "imageUrl": "https://media.harrypotterfanzone.com/finding-fluffy.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/finding-fluffy/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "greatly": {
+    "film": 2,
+    "caption": "Ron driving the Ford Anglia",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-driving-the-ford-anglia.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-driving-the-ford-anglia/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "behavior": {
+    "film": 4,
+    "caption": "Harry jumps during the First Task",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-jumps-during-the-first-task.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-jumps-during-the-first-task/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "golf": {
+    "film": 3,
+    "caption": "Professor Trelawney and the third years",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-trelawney-and-third-years.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-trelawney-and-third-years/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "noisy": {
+    "film": 7,
+    "caption": "Hermione in the tent at night",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-in-the-tent-at-night.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-in-the-tent-at-night/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "likely": {
+    "film": 5,
+    "caption": "The young Marauders",
+    "imageUrl": "https://media.harrypotterfanzone.com/young-marauders-order-of-the-phoenix.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/young-marauders-order-of-the-phoenix/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "official": {
+    "film": 6,
+    "caption": "Ginny at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/ginny-at-weasleys-wizard-wheezes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ginny-at-weasleys-wizard-wheezes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "balcony": {
+    "film": 6,
+    "caption": "Dumbledore and Harry visit Slughorn",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-and-harry-visit-slughorn.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-and-harry-visit-slughorn/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "convenient": {
+    "film": 5,
+    "caption": "Umbridge at her desk",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-at-her-desk.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-at-her-desk/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "native": {
+    "film": 7,
+    "caption": "Rupert, Dan and Emma filming outdoors",
+    "imageUrl": "https://media.harrypotterfanzone.com/rupert-dan-emma-filming-camping-scenes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rupert-dan-emma-filming-camping-scenes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "grateful": {
+    "film": 3,
+    "caption": "Dumbledore addresses students in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-addresses-students-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-addresses-students-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "female": {
+    "film": 4,
+    "caption": "Mad-Eye Moody with wand raised",
+    "imageUrl": "https://media.harrypotterfanzone.com/mad-eye-moody-with-wand-raised.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mad-eye-moody-with-wand-raised/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "wheelchair": {
+    "film": 2,
+    "caption": "Harry with the Sword of Gryffindor",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-with-the-sword-of-gryffindor-dumbledores-office.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-with-the-sword-of-gryffindor-dumbledores-office/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "exercise": {
+    "film": 1,
+    "caption": "Minerva McGonagall",
+    "imageUrl": "https://media.harrypotterfanzone.com/minerva-mcgonagall-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/minerva-mcgonagall-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "exactly": {
+    "film": 8,
+    "caption": "Filming in The Three Broomsticks",
+    "imageUrl": "https://media.harrypotterfanzone.com/deathly-hallows-filming-three-broomsticks.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/deathly-hallows-filming-three-broomsticks/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "float": {
+    "film": 8,
+    "caption": "Voldemort fires a curse",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-fires-a-curse.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-fires-a-curse/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "west": {
+    "film": 1,
+    "caption": "Harry tries out his wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-tries-out-his-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-tries-out-his-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "consider": {
+    "film": 2,
+    "caption": "Dobby visits Harry in the Hospital Wing",
+    "imageUrl": "https://media.harrypotterfanzone.com/dobby-visits-harry-in-the-hospital-wing.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dobby-visits-harry-in-the-hospital-wing/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "petrol": {
+    "film": 4,
+    "caption": "Ron in Yule Ball robes",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-yule-ball-robes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-yule-ball-robes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "instant": {
+    "film": 3,
+    "caption": "Hermione looks worried",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-looks-worried.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-looks-worried/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "uncomfortable": {
+    "film": 7,
+    "caption": "Hagrid and Harry escape Privet Drive",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-and-harry-escape-privet-drive.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-and-harry-escape-privet-drive/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "occupation": {
+    "film": 5,
+    "caption": "Cho Chang and Luna Lovegood",
+    "imageUrl": "https://media.harrypotterfanzone.com/cho-chang-and-luna-lovegood.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cho-chang-and-luna-lovegood/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "communication": {
+    "film": 6,
+    "caption": "Tom Riddle sits on his bed",
+    "imageUrl": "https://media.harrypotterfanzone.com/tom-riddle-sits-on-his-bed.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tom-riddle-sits-on-his-bed/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "pill": {
+    "film": 6,
+    "caption": "Bellatrix casts the Dark Mark over Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/bellatrix-casts-the-darkmark-above-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/bellatrix-casts-the-darkmark-above-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "mushroom": {
+    "film": 5,
+    "caption": "Harry in the underpass",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-underpass.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-underpass/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "wander": {
+    "film": 7,
+    "caption": "Hermione and Ron at Shell Cottage",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-ron-at-shell-cottage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-ron-at-shell-cottage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "architecture": {
+    "film": 3,
+    "caption": "The Hogwarts choir sings",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-hogwarts-choir-sings.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-hogwarts-choir-sings/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "museum": {
+    "film": 4,
+    "caption": "Cedric Diggory in the maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/cedric-diggory-in-the-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cedric-diggory-in-the-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "singing": {
+    "film": 2,
+    "caption": "Filch catches Harry and Ron",
+    "imageUrl": "https://media.harrypotterfanzone.com/filch-catches-harry-and-ron.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filch-catches-harry-and-ron/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "kingdom": {
+    "film": 1,
+    "caption": "Hagrid and Harry in Diagon Alley",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-and-harry-in-diagon-alley.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-and-harry-in-diagon-alley/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "bride": {
+    "film": 8,
+    "caption": "Goyle, Draco and Zabini at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/goyle-draco-and-zabini-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/goyle-draco-and-zabini-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "regularly": {
+    "film": 8,
+    "caption": "Filming Snape’s death scene",
+    "imageUrl": "https://media.harrypotterfanzone.com/filming-snapes-death-scene.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filming-snapes-death-scene/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "reflect": {
+    "film": 1,
+    "caption": "Harry holds Hedwig",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-holds-hedwig.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-holds-hedwig/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "timetable": {
+    "film": 2,
+    "caption": "Professor Gilderoy Lockhart",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-gilderoy-lockhart.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-gilderoy-lockhart/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "apply": {
+    "film": 4,
+    "caption": "Professor McGonagall and Ron dance",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mcgonagall-and-ron-dance.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mcgonagall-and-ron-dance/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "title": {
+    "film": 3,
+    "caption": "Harry meets Buckbeak",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-meets-buckbeak.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-meets-buckbeak/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "comic": {
+    "film": 7,
+    "caption": "Narcissa and Draco in Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/narcissa-and-draco-in-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/narcissa-and-draco-in-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "cycling": {
+    "film": 5,
+    "caption": "Dumbledore’s Army",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledores-army-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledores-army-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "invention": {
+    "film": 6,
+    "caption": "Dumbledore’s firestorm",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledores-firestorm.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledores-firestorm/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "artificial": {
+    "film": 6,
+    "caption": "Hogwarts Express bound for school",
+    "imageUrl": "https://media.harrypotterfanzone.com/hogwarts-express-bound-for-school.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hogwarts-express-bound-for-school/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "fortunately": {
+    "film": 5,
+    "caption": "Ron, Hermione and Neville in the Department of Mysteries",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-hermione-and-neville-in-the-department-of-mysteries.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-hermione-and-neville-in-the-department-of-mysteries/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "leather": {
+    "film": 7,
+    "caption": "Ron at the Burrow",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-at-the-burrow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-at-the-burrow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "background": {
+    "film": 3,
+    "caption": "Harry, Ron and the crystal ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-the-crystal-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-the-crystal-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "killer": {
+    "film": 4,
+    "caption": "Triwizard Cup in the maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/triwizard-cup-in-the-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/triwizard-cup-in-the-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "significant": {
+    "film": 2,
+    "caption": "Ron with the broken wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-with-broken-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-with-broken-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "fiction": {
+    "film": 1,
+    "caption": "Harry and the invisibility cloak",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-the-invisibility-cloak.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-the-invisibility-cloak/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "midday": {
+    "film": 8,
+    "caption": "Harry in the Lestrange Vault",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-lestrange-vault.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-lestrange-vault/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "oven": {
+    "film": 8,
+    "caption": "The dragon escapes Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-dragon-escapes-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-dragon-escapes-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "widely": {
+    "film": 1,
+    "caption": "Draco Malfoy and the Sorting Hat",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-malfoy-is-sorted.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-malfoy-is-sorted/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "association": {
+    "film": 2,
+    "caption": "Neville lifted into the air",
+    "imageUrl": "https://media.harrypotterfanzone.com/neville-lifted-into-the-air.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/neville-lifted-into-the-air/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "encourage": {
+    "film": 4,
+    "caption": "Teachers in the Trophy Room",
+    "imageUrl": "https://media.harrypotterfanzone.com/teachers-in-the-trophy-room.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/teachers-in-the-trophy-room/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "swallow": {
+    "film": 3,
+    "caption": "Dumbledore and Snape in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-and-snape-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-and-snape-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "murder": {
+    "film": 7,
+    "caption": "Harry and Hermione in the tent",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-consult-books-in-the-tent.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-consult-books-in-the-tent/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "stuff": {
+    "film": 5,
+    "caption": "Umbridge, Trelawney, McGonagall and Filch",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-trelawney-mcgonagall-and-filch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-trelawney-mcgonagall-and-filch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "barbecue": {
+    "film": 6,
+    "caption": "Lavender, Luna and Hermione watch Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/lavender-luana-and-hermione-watch-quidditch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lavender-luana-and-hermione-watch-quidditch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "container": {
+    "film": 6,
+    "caption": "Fred and George at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-george-and-harry-at-weasleys-wizard-wheezes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-george-and-harry-at-weasleys-wizard-wheezes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "highway": {
+    "film": 5,
+    "caption": "Severus Snape",
+    "imageUrl": "https://media.harrypotterfanzone.com/severus-snape-order-of-the-phoenix.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/severus-snape-order-of-the-phoenix/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "married": {
+    "film": 7,
+    "caption": "Harry reads Dumbledore’s biography",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-reads-dumbledores-biography.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-reads-dumbledores-biography/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "royal": {
+    "film": 3,
+    "caption": "Hagrid in his cabin",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-in-his-cabin.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-in-his-cabin/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "kindly": {
+    "film": 4,
+    "caption": "Krum and Karkaroff by the maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/krum-and-karkaroff-by-the-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/krum-and-karkaroff-by-the-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "relax": {
+    "film": 2,
+    "caption": "Dobby snaps his fingers",
+    "imageUrl": "https://media.harrypotterfanzone.com/dobby-snaps-his-fingers.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dobby-snaps-his-fingers/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "custom": {
+    "film": 1,
+    "caption": "Rubeus Hagrid",
+    "imageUrl": "https://media.harrypotterfanzone.com/rubeus-hagrid-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rubeus-hagrid-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "lend": {
+    "film": 8,
+    "caption": "Voldemort in the final battle",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-in-the-final-battle.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-in-the-final-battle/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "kit": {
+    "film": 8,
+    "caption": "Hermione breaks into Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-breaks-into-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-breaks-into-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "complain": {
+    "film": 1,
+    "caption": "Hermione in class",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-in-class-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-in-class-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "episode": {
+    "film": 2,
+    "caption": "Making the Polyjuice Potion",
+    "imageUrl": "https://media.harrypotterfanzone.com/making-the-polyjuice-potion.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/making-the-polyjuice-potion/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "melon": {
+    "film": 4,
+    "caption": "Rita Skeeter and Bozo",
+    "imageUrl": "https://media.harrypotterfanzone.com/rita-skeeter-and-bozo.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rita-skeeter-and-bozo/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "blow": {
+    "film": 3,
+    "caption": "Hermione and Ron in the snow",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-ron-in-the-snow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-ron-in-the-snow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "admire": {
+    "film": 7,
+    "caption": "Harry casts a Patronus in the Ministry",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-casts-a-patronus-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-casts-a-patronus-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "steal": {
+    "film": 5,
+    "caption": "Tonks in the Department of Mysteries",
+    "imageUrl": "https://media.harrypotterfanzone.com/tonks-in-the-ministry-of-magic.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tonks-in-the-ministry-of-magic/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "compare": {
+    "film": 6,
+    "caption": "Dumbledore and Harry on the Astronomy Tower",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-and-harry-on-the-astronomy-tower.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-and-harry-on-the-astronomy-tower/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "creativity": {
+    "film": 6,
+    "caption": "Harry and Hermione in the snow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-in-the-snow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-in-the-snow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "century": {
+    "film": 5,
+    "caption": "Fred and George in the Gryffindor Common Room",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-in-the-gryffindor-common-room.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-in-the-gryffindor-common-room/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "online": {
+    "film": 7,
+    "caption": "The trio escape to London",
+    "imageUrl": "https://media.harrypotterfanzone.com/trio-a-place-to-hide-deathly-hallows-part-1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/trio-a-place-to-hide-deathly-hallows-part-1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "sightseeing": {
+    "film": 3,
+    "caption": "The trio head down the stairs",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-head-down-the-stairs.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-head-down-the-stairs/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "live": {
+    "film": 4,
+    "caption": "Barry Crouch Junior unmasked",
+    "imageUrl": "https://media.harrypotterfanzone.com/barty-crouch-jr-unmasked.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/barty-crouch-jr-unmasked/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "more": {
+    "film": 2,
+    "caption": "Harry prepares to duel",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-prepares-to-duel.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-prepares-to-duel/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "working": {
+    "film": 1,
+    "caption": "The magic chess match",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-magic-chess-match.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-magic-chess-match/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "superior": {
+    "film": 8,
+    "caption": "McGonagall looks worried",
+    "imageUrl": "https://media.harrypotterfanzone.com/mcgonagall-looks-worried.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mcgonagall-looks-worried/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "flat": {
+    "film": 8,
+    "caption": "Ron in the Lestrange Vault",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-the-lestrange-vault.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-the-lestrange-vault/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "reach": {
+    "film": 1,
+    "caption": "Severus Snape",
+    "imageUrl": "https://media.harrypotterfanzone.com/severus-snape-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/severus-snape-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "engine": {
+    "film": 2,
+    "caption": "Dumbledore, Harry and Fawkes",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-harry-and-fawkes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-harry-and-fawkes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "land": {
+    "film": 4,
+    "caption": "Lord Voldemort is reborn",
+    "imageUrl": "https://media.harrypotterfanzone.com/lord-voldemort-is-reborn.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lord-voldemort-is-reborn/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "duty": {
+    "film": 3,
+    "caption": "The Whomping Willow",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-whomping-willow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-whomping-willow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "general": {
+    "film": 7,
+    "caption": "Harry and Hermione with Dumbledore’s biography",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-with-dumbledores-biography.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-with-dumbledores-biography/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "responsibility": {
+    "film": 5,
+    "caption": "Molly Weasley and Harry at Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/molly-weasley-and-harry-in-grimmauld-place.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/molly-weasley-and-harry-in-grimmauld-place/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "occasion": {
+    "film": 6,
+    "caption": "Narcissa Malfoy at Spinner’s End",
+    "imageUrl": "https://media.harrypotterfanzone.com/narcissa-malfoy-at-spinners-end.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/narcissa-malfoy-at-spinners-end/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "proof": {
+    "film": 6,
+    "caption": "Ron in pajamas",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-pajamas.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-pajamas/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "holy": {
+    "film": 5,
+    "caption": "Ginny and Padma Patil",
+    "imageUrl": "https://media.harrypotterfanzone.com/ginny-and-padma-patil.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ginny-and-padma-patil/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "entirely": {
+    "film": 7,
+    "caption": "Ollivander, Dobby and Luna",
+    "imageUrl": "https://media.harrypotterfanzone.com/ollivander-dobby-and-luna.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ollivander-dobby-and-luna/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "claim": {
+    "film": 3,
+    "caption": "Draco and the Monster Book of Monsters",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-and-the-monster-book.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-and-the-monster-book/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "charity": {
+    "film": 4,
+    "caption": "Viktor Krum arrives at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/viktor-krum-arrives-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/viktor-krum-arrives-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "plain": {
+    "film": 2,
+    "caption": "Harry and Ginny in the Chamber of Secrets",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ginny-in-the-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ginny-in-the-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "solid": {
+    "film": 1,
+    "caption": "Harry receives his Hogwarts letters",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-receives-hogwarts-letters.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-receives-hogwarts-letters/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "disaster": {
+    "film": 8,
+    "caption": "Ariana Dumbledore",
+    "imageUrl": "https://media.harrypotterfanzone.com/ariana-dumbledore.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ariana-dumbledore/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "incident": {
+    "film": 8,
+    "caption": "Voldemort on a staircase",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-on-a-staircase.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-on-a-staircase/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "capable": {
+    "film": 1,
+    "caption": "Hermione, Draco, Harry and Ron in the Forbidden Forest",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-draco-harry-forbidden-forest.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-draco-harry-forbidden-forest/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "investigation": {
+    "film": 2,
+    "caption": "Dobby jumps on Harry’s bed",
+    "imageUrl": "https://media.harrypotterfanzone.com/dobby-jumps-on-harrys-bed.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dobby-jumps-on-harrys-bed/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "presence": {
+    "film": 4,
+    "caption": "Ron and Padma at the Yule Ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-padma-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-padma-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "press": {
+    "film": 3,
+    "caption": "The trio watch as Buckbeak approaches",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-watches-buckbeak-approach.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-watches-buckbeak-approach/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "drag": {
+    "film": 7,
+    "caption": "Harry camping on a cliff",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-camping-on-a-cliff.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-camping-on-a-cliff/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "prayer": {
+    "film": 5,
+    "caption": "Fudge arrive to take Dumbledore",
+    "imageUrl": "https://media.harrypotterfanzone.com/fudge-arrives-to-take-dumbledore.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fudge-arrives-to-take-dumbledore/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "humor": {
+    "film": 6,
+    "caption": "Slughorn and Dumbledore",
+    "imageUrl": "https://media.harrypotterfanzone.com/slughorn-and-dumbledore.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slughorn-and-dumbledore/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "politics": {
+    "film": 6,
+    "caption": "Cormac Mclaggen and Ron before Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/cormac-mclaggen-and-ron-before-quidditch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cormac-mclaggen-and-ron-before-quidditch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "praise": {
+    "film": 5,
+    "caption": "Tea with Hagrid and fang",
+    "imageUrl": "https://media.harrypotterfanzone.com/tea-with-hagrid-and-fang.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tea-with-hagrid-and-fang/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "violence": {
+    "film": 7,
+    "caption": "Hermione with bloodied hands",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-with-bloodied-hands.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-with-bloodied-hands/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "sacred": {
+    "film": 3,
+    "caption": "Harry and Hedwig in bed",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hedwig-in-bed.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hedwig-in-bed/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "passion": {
+    "film": 4,
+    "caption": "Mayhem at the Quidditch World Cup",
+    "imageUrl": "https://media.harrypotterfanzone.com/mayhem-at-the-quidditch-world-cup.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mayhem-at-the-quidditch-world-cup/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "impression": {
+    "film": 2,
+    "caption": "Hermione, Ron and Harry meet Hagrid",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-ron-and-harry-meet-hagrid.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-ron-and-harry-meet-hagrid/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "formal": {
+    "film": 1,
+    "caption": "The trio and the chess match",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-and-the-chess-match.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-and-the-chess-match/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "recover": {
+    "film": 8,
+    "caption": "David Heyman and Ralph Fiennes",
+    "imageUrl": "https://media.harrypotterfanzone.com/david-heyman-and-ralph-fiennes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/david-heyman-and-ralph-fiennes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "appeal": {
+    "film": 8,
+    "caption": "Harry, Ron and Hermione at Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-in-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-in-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "funeral": {
+    "film": 1,
+    "caption": "Students on the staircase",
+    "imageUrl": "https://media.harrypotterfanzone.com/students-on-the-staircase.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/students-on-the-staircase/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "relative": {
+    "film": 2,
+    "caption": "The Great Hall at Christmas",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-great-hall-at-christmas.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-great-hall-at-christmas/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "bold": {
+    "film": 4,
+    "caption": "Rita Skeeter taking notes",
+    "imageUrl": "https://media.harrypotterfanzone.com/rita-skeeter-taking-notes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rita-skeeter-taking-notes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "tiny": {
+    "film": 3,
+    "caption": "Confronting Sirius Black",
+    "imageUrl": "https://media.harrypotterfanzone.com/confronting-sirius-black.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/confronting-sirius-black/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "none": {
+    "film": 7,
+    "caption": "Harry and Ron prepare to enter the Ministry",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-prepare-to-enter-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-prepare-to-enter-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "glory": {
+    "film": 5,
+    "caption": "Luna Lovegood",
+    "imageUrl": "https://media.harrypotterfanzone.com/luna-lovegood-order-of-the-phoenix.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/luna-lovegood-order-of-the-phoenix/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "limit": {
+    "film": 6,
+    "caption": "Tom Riddle at the Slug Club",
+    "imageUrl": "https://media.harrypotterfanzone.com/tom-riddle-at-the-slug-club.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tom-riddle-at-the-slug-club/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "possibility": {
+    "film": 6,
+    "caption": "Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/weasleys-wizard-wheezes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/weasleys-wizard-wheezes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "assignment": {
+    "film": 5,
+    "caption": "Hermione Granger",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-granger-order-of-the-phoenix.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-granger-order-of-the-phoenix/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "treat": {
+    "film": 7,
+    "caption": "Umbridge in the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-in-the-ministry-of-magic.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-in-the-ministry-of-magic/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "inform": {
+    "film": 3,
+    "caption": "The Dementor’s Hand",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-dementors-hand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-dementors-hand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "beneath": {
+    "film": 4,
+    "caption": "Entering the Triwizard Tournament",
+    "imageUrl": "https://media.harrypotterfanzone.com/entering-the-triwizard-tournament.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/entering-the-triwizard-tournament/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "cure": {
+    "film": 2,
+    "caption": "Gilderoy Lockhart in Defence Against the Dark Arts",
+    "imageUrl": "https://media.harrypotterfanzone.com/gilderoy-lockhart-during-defence-against-the-dark-arts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gilderoy-lockhart-during-defence-against-the-dark-arts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "cell": {
+    "film": 1,
+    "caption": "Fighting the Devil’s Snare",
+    "imageUrl": "https://media.harrypotterfanzone.com/fighting-the-devils-snare.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fighting-the-devils-snare/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "permit": {
+    "film": 8,
+    "caption": "Statues come to life",
+    "imageUrl": "https://media.harrypotterfanzone.com/statues-come-to-life.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/statues-come-to-life/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "ceremony": {
+    "film": 8,
+    "caption": "Hermione and Ron look at the destruction",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-ron-look-at-the-destruction.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-ron-look-at-the-destruction/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "mass": {
+    "film": 1,
+    "caption": "Professor Quirrell in class",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-quirrell-in-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-quirrell-in-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "examination": {
+    "film": 2,
+    "caption": "Harry and Draco play Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-draco-play-quidditch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-draco-play-quidditch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "border": {
+    "film": 4,
+    "caption": "Harry and Hermione before the First Task",
+    "imageUrl": "https://media.harrypotterfanzone.com/goblet-of-fire-first-task-tent.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/goblet-of-fire-first-task-tent/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "laboratory": {
+    "film": 3,
+    "caption": "Hogwarts Express stopped on a bridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/hogwarts-express-stopped-on-the-bridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hogwarts-express-stopped-on-the-bridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "judgment": {
+    "film": 7,
+    "caption": "Harry and Hermione on a cliff",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-on-a-cliff.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-on-a-cliff/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "relation": {
+    "film": 5,
+    "caption": "Neville with the Mimbulus mimbletonia",
+    "imageUrl": "https://media.harrypotterfanzone.com/neville-and-the-mimbulus-mimbletonia-common-room.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/neville-and-the-mimbulus-mimbletonia-common-room/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "possession": {
+    "film": 6,
+    "caption": "Ron celebrates a Quidditch win",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-celebrates-a-quidditch-win.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-celebrates-a-quidditch-win/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "leading": {
+    "film": 6,
+    "caption": "Breakfast before Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/breakfast-before-quidditch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/breakfast-before-quidditch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "tragedy": {
+    "film": 5,
+    "caption": "Voldemort in the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-in-the-ministry-of-magic.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-in-the-ministry-of-magic/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "legally": {
+    "film": 7,
+    "caption": "Hermione and Molly Weasley",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-molly-at-bill-and-fleurs-wedding.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-molly-at-bill-and-fleurs-wedding/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "separation": {
+    "film": 3,
+    "caption": "Professor Trelawney in Divination",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-trelawney-in-divination-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-trelawney-in-divination-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "pregnant": {
+    "film": 4,
+    "caption": "Ron and Mad-Eye Moody",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-mad-eye-moody.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-mad-eye-moody/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "steady": {
+    "film": 2,
+    "caption": "Harry enters the Chamber of Secrets",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-enters-the-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-enters-the-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "terror": {
+    "film": 1,
+    "caption": "Draco Malfoy",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-malfoy-tv-s1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-malfoy-tv-s1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "sunset": {
+    "film": 8,
+    "caption": "Aberforth Dumbledore with Ron and Hermione",
+    "imageUrl": "https://media.harrypotterfanzone.com/aberforth-dumbledore-with-ron-and-hermione.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/aberforth-dumbledore-with-ron-and-hermione/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "intense": {
+    "film": 8,
+    "caption": "Harry reaches for a wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-reaches-for-a-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-reaches-for-a-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "setting": {
+    "film": 1,
+    "caption": "Lee Jordan commentates",
+    "imageUrl": "https://media.harrypotterfanzone.com/lee-jordan-commentates.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lee-jordan-commentates/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "aim": {
+    "film": 2,
+    "caption": "Gilderoy Lockhart confronted",
+    "imageUrl": "https://media.harrypotterfanzone.com/gilderoy-lockhart-confronted.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gilderoy-lockhart-confronted/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "overnight": {
+    "film": 4,
+    "caption": "Hermione prepares to enter the Yule Ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-prepares-to-enter-the-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-prepares-to-enter-the-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "immediate": {
+    "film": 3,
+    "caption": "Unmasking Peter Pettigrew",
+    "imageUrl": "https://media.harrypotterfanzone.com/unmasking-peter-pettigrew.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/unmasking-peter-pettigrew/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "bent": {
+    "film": 7,
+    "caption": "The Seven Potters",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-seven-potters-transformation.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-seven-potters-transformation/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "struggle": {
+    "film": 5,
+    "caption": "In the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/in-the-ministry-of-magic.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/in-the-ministry-of-magic/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "experiment": {
+    "film": 6,
+    "caption": "Inspecting the cursed necklace",
+    "imageUrl": "https://media.harrypotterfanzone.com/inspecting-the-cursed-necklace.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/inspecting-the-cursed-necklace/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "impressive": {
+    "film": 6,
+    "caption": "Fred and George at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-at-weasleys-wizard-wheezes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-at-weasleys-wizard-wheezes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "collar": {
+    "film": 5,
+    "caption": "Moody, Tonks and Shacklebolt",
+    "imageUrl": "https://media.harrypotterfanzone.com/moody-tonks-and-shacklebolt.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/moody-tonks-and-shacklebolt/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "steel": {
+    "film": 7,
+    "caption": "Scrimgeour in the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/scrimgeour-speaking-in-the-ministry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/scrimgeour-speaking-in-the-ministry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "assistance": {
+    "film": 3,
+    "caption": "The Fat Lady sings",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-fat-lady-sings.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-fat-lady-sings/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "specially": {
+    "film": 4,
+    "caption": "Cedric Diggory",
+    "imageUrl": "https://media.harrypotterfanzone.com/cedric-diggory-with-hood.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cedric-diggory-with-hood/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "hunger": {
+    "film": 2,
+    "caption": "Gilderoy Lockhart at the Dueling Club",
+    "imageUrl": "https://media.harrypotterfanzone.com/gilderoy-lockhart-at-the-dueling-club.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gilderoy-lockhart-at-the-dueling-club/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "attraction": {
+    "film": 1,
+    "caption": "Ron and Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-harry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-harry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "scratch": {
+    "film": 8,
+    "caption": "Shooting the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/shooting-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/shooting-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "purely": {
+    "film": 8,
+    "caption": "Harry behind a stone column during battle",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-behind-a-stone-column-during-the-battle-of-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-behind-a-stone-column-during-the-battle-of-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "existence": {
+    "film": 1,
+    "caption": "Harry on the Hogwarts Express",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-on-the-hogwarts-express.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-on-the-hogwarts-express/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "internal": {
+    "film": 2,
+    "caption": "Harry returns from the Chamber of Secrets",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-after-the-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-after-the-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "mechanical": {
+    "film": 4,
+    "caption": "Dumbledore before the Triwizard Tournament",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-before-the-triwizard-tournament.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-before-the-triwizard-tournament/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "protection": {
+    "film": 3,
+    "caption": "Arriving at Care of Magical Creatures",
+    "imageUrl": "https://media.harrypotterfanzone.com/arriving-at-care-of-magical-creatures.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/arriving-at-care-of-magical-creatures/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "gay": {
+    "film": 7,
+    "caption": "Voldemort in Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-in-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-in-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "transport": {
+    "film": 5,
+    "caption": "Ron, Harry and Cho in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-harry-and-cho-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-harry-and-cho-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "medium": {
+    "film": 6,
+    "caption": "Fred and George at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-at-weasleys-wizard-wheezes-3.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-at-weasleys-wizard-wheezes-3/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "cage": {
+    "film": 6,
+    "caption": "Emma, Dan and Rupert filming in a corridor",
+    "imageUrl": "https://media.harrypotterfanzone.com/emma-dan-rupert-hogwarts-filming.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/emma-dan-rupert-hogwarts-filming/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "race": {
+    "film": 5,
+    "caption": "Percy rounds up Harry and Cho",
+    "imageUrl": "https://media.harrypotterfanzone.com/percy-rounds-up-harry-and-cho.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/percy-rounds-up-harry-and-cho/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "surface": {
+    "film": 7,
+    "caption": "Mundungus Fletcher summoned to Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/mundungus-fletcher-summoned-to-grimmauld-place.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mundungus-fletcher-summoned-to-grimmauld-place/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "anger": {
+    "film": 3,
+    "caption": "Casting the Patronus",
+    "imageUrl": "https://media.harrypotterfanzone.com/casting-the-patronus.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/casting-the-patronus/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "unite": {
+    "film": 4,
+    "caption": "Harry and Parvati at the Yule Ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-parvati-at-the-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-parvati-at-the-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "network": {
+    "film": 2,
+    "caption": "Gilderoy Lockhart",
+    "imageUrl": "https://media.harrypotterfanzone.com/gilderoy-lockhart-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/gilderoy-lockhart-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "active": {
+    "film": 1,
+    "caption": "Seamus Finnigan blows up a feather",
+    "imageUrl": "https://media.harrypotterfanzone.com/seamus-blows-up-a-feather.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/seamus-blows-up-a-feather/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "filling": {
+    "film": 8,
+    "caption": "Harry at Shell Cottage",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-at-shell-cottage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-at-shell-cottage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "vision": {
+    "film": 8,
+    "caption": "Ron and Hermione in the Hog’s Head",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-hermione-in-the-hogs-head.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-hermione-in-the-hogs-head/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "harbor": {
+    "film": 1,
+    "caption": "Draco and Harry in the Forbidden Forest",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-and-harry-in-the-forbidden-forest.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-and-harry-in-the-forbidden-forest/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "nevertheless": {
+    "film": 2,
+    "caption": "Harry enters Tom Riddle’s diary",
+    "imageUrl": "https://media.harrypotterfanzone.com/tom-riddles-diary-reveals-its-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tom-riddles-diary-reveals-its-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "urgent": {
+    "film": 4,
+    "caption": "Cedric enters his name in the Goblet of Fire",
+    "imageUrl": "https://media.harrypotterfanzone.com/cedric-enters-his-name-into-the-goblet-of-fire.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cedric-enters-his-name-into-the-goblet-of-fire/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "declaration": {
+    "film": 3,
+    "caption": "Hermione and Harry talk in the snow",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-harry-talk-in-the-snow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-harry-talk-in-the-snow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "expose": {
+    "film": 7,
+    "caption": "The trio enter Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-hermione-grimmauld-place-deathly-hallows-part-1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-hermione-grimmauld-place-deathly-hallows-part-1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "sort": {
+    "film": 5,
+    "caption": "Harry, Luna and a Thestral",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-luna-and-a-thestral.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-luna-and-a-thestral/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "obvious": {
+    "film": 6,
+    "caption": "Slughorn teaches Potions",
+    "imageUrl": "https://media.harrypotterfanzone.com/slughorn-teaches-potions.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slughorn-teaches-potions/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "christian": {
+    "film": 6,
+    "caption": "Bellatrix in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/bellatrix-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/bellatrix-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "confidence": {
+    "film": 5,
+    "caption": "Fudge at Harry’s hearing",
+    "imageUrl": "https://media.harrypotterfanzone.com/fudge-at-harrys-hearing.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fudge-at-harrys-hearing/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "movement": {
+    "film": 7,
+    "caption": "Death Eaters at Malfoy Manor",
+    "imageUrl": "https://media.harrypotterfanzone.com/death-eaters-at-malfoy-manor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/death-eaters-at-malfoy-manor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "divide": {
+    "film": 3,
+    "caption": "Ron, Hermione and Harry confront Draco",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-hermione-and-harry-confront-draco.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-hermione-and-harry-confront-draco/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "destination": {
+    "film": 4,
+    "caption": "Mad-Eye Moody",
+    "imageUrl": "https://media.harrypotterfanzone.com/mad-eye-moody-goblet-of-fire.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mad-eye-moody-goblet-of-fire/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "accidentally": {
+    "film": 2,
+    "caption": "The trio with a Mandrake",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-with-a-mandrake.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-with-a-mandrake/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "alcoholic": {
+    "film": 1,
+    "caption": "First flying lesson",
+    "imageUrl": "https://media.harrypotterfanzone.com/first-flying-lesson.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/first-flying-lesson/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "status": {
+    "film": 8,
+    "caption": "Breaking into Gringotts",
+    "imageUrl": "https://media.harrypotterfanzone.com/breaking-into-gringotts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/breaking-into-gringotts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "assist": {
+    "film": 8,
+    "caption": "Neville wields the Sword of Gryffindor",
+    "imageUrl": "https://media.harrypotterfanzone.com/neville-wields-the-sword-of-gryffindor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/neville-wields-the-sword-of-gryffindor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "wrist": {
+    "film": 5,
+    "caption": "Filch and Umbridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/filch-and-umbridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/filch-and-umbridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "delight": {
+    "film": 2,
+    "caption": "McGonagall, Sprout, Dumbledore and Snape",
+    "imageUrl": "https://media.harrypotterfanzone.com/mcgonagall-sprout-dumbledore-and-snape.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mcgonagall-sprout-dumbledore-and-snape/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "creator": {
+    "film": 4,
+    "caption": "The Third Task maze",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-third-task-maze.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-third-task-maze/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "fountain": {
+    "film": 3,
+    "caption": "Hermione and Ron on the Hogwarts Express",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-and-ron-on-the-hogwarts-express.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-and-ron-on-the-hogwarts-express/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "president": {
+    "film": 7,
+    "caption": "Harry and Hermione in the woods",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-in-the-woods.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-in-the-woods/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "unity": {
+    "film": 5,
+    "caption": "Harry and Sirius at Grimmauld Place",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-sirius-and-the-black-family-tree.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-sirius-and-the-black-family-tree/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "domain": {
+    "film": 6,
+    "caption": "McLaggen at Quidditch tryouts",
+    "imageUrl": "https://media.harrypotterfanzone.com/mclaggen-at-quidditch-tryouts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mclaggen-at-quidditch-tryouts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "wax": {
+    "film": 6,
+    "caption": "Draco Malfoy looks in the mirror",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-malfoy-looks-in-the-mirror.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-malfoy-looks-in-the-mirror/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "encounter": {
+    "film": 5,
+    "caption": "Vernon, Dudley and Petunia Dursley",
+    "imageUrl": "https://media.harrypotterfanzone.com/vernon-dudley-and-petunia-dursley.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/vernon-dudley-and-petunia-dursley/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "alcohol": {
+    "film": 7,
+    "caption": "Harry camping in winter",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-camping-in-winter.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-camping-in-winter/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "sympathy": {
+    "film": 3,
+    "caption": "Harry’s Dementor lesson",
+    "imageUrl": "https://media.harrypotterfanzone.com/harrys-dementor-lesson.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harrys-dementor-lesson/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "promotion": {
+    "film": 4,
+    "caption": "Ron, Harry and Snape in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-snape-and-harry-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-snape-and-harry-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "accidental": {
+    "film": 2,
+    "caption": "Slytherin Common Room",
+    "imageUrl": "https://media.harrypotterfanzone.com/slytherin-common-room.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slytherin-common-room/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "pie": {
+    "film": 1,
+    "caption": "Hermione, Ron and Harry speak with Professor McGonagall",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-harry-and-ron-speak-to-mcgonagall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-harry-and-ron-speak-to-mcgonagall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "pain": {
+    "film": 8,
+    "caption": "Snape holds his wand in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/snape-holds-his-wand-in-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/snape-holds-his-wand-in-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "inquiry": {
+    "film": 8,
+    "caption": "Harry in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "unexpected": {
+    "film": 1,
+    "caption": "Professor Flitwick in Charms class",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-flitwick-in-charms-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-flitwick-in-charms-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "eager": {
+    "film": 2,
+    "caption": "Harry and Filch by the bloodied wall",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-filch-by-the-bloodied-wall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-filch-by-the-bloodied-wall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "abandon": {
+    "film": 4,
+    "caption": "Viktor Krum at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/viktor-krum-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/viktor-krum-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "passport": {
+    "film": 3,
+    "caption": "Sirius Black imprisoned",
+    "imageUrl": "https://media.harrypotterfanzone.com/sirius-black-imprisoned.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/sirius-black-imprisoned/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "conquer": {
+    "film": 7,
+    "caption": "Ron argues in the tent",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-argues-in-the-tent.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-argues-in-the-tent/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "announce": {
+    "film": 5,
+    "caption": "The Educational Decree explodes",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-proclamation-explodes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-proclamation-explodes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "element": {
+    "film": 6,
+    "caption": "Horace Slughorn in his office",
+    "imageUrl": "https://media.harrypotterfanzone.com/horace-slughorn-half-blood-prince.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/horace-slughorn-half-blood-prince/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "advisor": {
+    "film": 6,
+    "caption": "Draco in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-in-the-room-of-requirement-2.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-in-the-room-of-requirement-2/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "vessel": {
+    "film": 5,
+    "caption": "Cho Chang",
+    "imageUrl": "https://media.harrypotterfanzone.com/cho-chang-order-of-the-phoenix.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cho-chang-order-of-the-phoenix/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "participate": {
+    "film": 7,
+    "caption": "Hermione, Ron and Harry in a cafe",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-ron-and-harry-in-a-cafe.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-ron-and-harry-in-a-cafe/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "elbow": {
+    "film": 3,
+    "caption": "Hermione, Harry and the Time Turner",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-harry-and-the-time-turner.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-harry-and-the-time-turner/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "liquid": {
+    "film": 4,
+    "caption": "Rupert Grint, David Heyman and Emma Watson",
+    "imageUrl": "https://media.harrypotterfanzone.com/rupert-grint-david-heyman-emma-watson-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/rupert-grint-david-heyman-emma-watson-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "currently": {
+    "film": 2,
+    "caption": "Harry and Ron with wands at the ready",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-confront-gilderoy-lockhart.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-confront-gilderoy-lockhart/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "welcome": {
+    "film": 1,
+    "caption": "The Dursleys and the Hogwarts letter",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-durlseys-and-the-hogwarts-letter.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-durlseys-and-the-hogwarts-letter/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "properly": {
+    "film": 8,
+    "caption": "Snape leaves Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/snape-leaves-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/snape-leaves-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "delicate": {
+    "film": 8,
+    "caption": "McGonagall watches the statues march",
+    "imageUrl": "https://media.harrypotterfanzone.com/mcgonagall-watches-the-statues-march.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mcgonagall-watches-the-statues-march/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "object": {
+    "film": 1,
+    "caption": "Harry with the Golden Snitch",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-with-the-golden-snitch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-with-the-golden-snitch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "jar": {
+    "film": 2,
+    "caption": "Tom Riddle touches Harry’s scar",
+    "imageUrl": "https://media.harrypotterfanzone.com/tom-riddle-touches-harrys-scar.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/tom-riddle-touches-harrys-scar/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "salmon": {
+    "film": 4,
+    "caption": "Cedric and Cho dance",
+    "imageUrl": "https://media.harrypotterfanzone.com/cedric-and-cho-dance.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/cedric-and-cho-dance/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "jungle": {
+    "film": 3,
+    "caption": "Harry and Hermione with cuts and bruises",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-with-cuts-and-bruises.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-with-cuts-and-bruises/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "mineral": {
+    "film": 7,
+    "caption": "Xenophilius Lovegood draws the Deathly Hallows symbol",
+    "imageUrl": "https://media.harrypotterfanzone.com/xenophilius-lovegood-draws-the-deathly-hallows-symbol.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/xenophilius-lovegood-draws-the-deathly-hallows-symbol/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "aggressive": {
+    "film": 5,
+    "caption": "Harry in King’s Cross Station",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-kings-cross.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-kings-cross/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "industry": {
+    "film": 6,
+    "caption": "Lavender Brown on the Hogwarts Express",
+    "imageUrl": "https://media.harrypotterfanzone.com/lavender-brown-on-the-train.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lavender-brown-on-the-train/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "sphere": {
+    "film": 6,
+    "caption": "Shooting in The Three Broomsticks",
+    "imageUrl": "https://media.harrypotterfanzone.com/shooting-in-the-three-broomsticks.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/shooting-in-the-three-broomsticks/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "sufficient": {
+    "film": 5,
+    "caption": "Bellatrix Lestrange casts a spell",
+    "imageUrl": "https://media.harrypotterfanzone.com/bellatrix-lestrange-casts-a-spell.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/bellatrix-lestrange-casts-a-spell/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "suddenly": {
+    "film": 7,
+    "caption": "Voldemort steals the Elder Wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/voldemort-steals-the-elder-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/voldemort-steals-the-elder-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "strain": {
+    "film": 3,
+    "caption": "Harry opens the Firebolt",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-opens-the-firebolt.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-opens-the-firebolt/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "particularly": {
+    "film": 4,
+    "caption": "Igor Karkaroff crouching down",
+    "imageUrl": "https://media.harrypotterfanzone.com/igor-karkaroff-crouching-down.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/igor-karkaroff-crouching-down/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "considerable": {
+    "film": 2,
+    "caption": "Harry in the Chamber of Secrets",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "vice": {
+    "film": 1,
+    "caption": "Playing Wizard Chess",
+    "imageUrl": "https://media.harrypotterfanzone.com/playing-wizards-chess.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/playing-wizards-chess/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "enthusiasm": {
+    "film": 8,
+    "caption": "Harry and McGonagall in the Great Hall",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-addresses-the-great-hall.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-addresses-the-great-hall/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "religious": {
+    "film": 8,
+    "caption": "Ollivander at Shell Cottage",
+    "imageUrl": "https://media.harrypotterfanzone.com/ollivander-at-shell-cottage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ollivander-at-shell-cottage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "conclusion": {
+    "film": 1,
+    "caption": "Harry and Ron at King’s Cross Station",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-at-kings-cross-station.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-at-kings-cross-station/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "frequently": {
+    "film": 2,
+    "caption": "Harry and Ron in Aragog’s lair",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-in-aragogs-lair.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-in-aragogs-lair/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "pork": {
+    "film": 4,
+    "caption": "Goyle, Draco and Krum",
+    "imageUrl": "https://media.harrypotterfanzone.com/goyle-draco-and-krum-goblet-of-fire.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/goyle-draco-and-krum-goblet-of-fire/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "weakness": {
+    "film": 3,
+    "caption": "Ron and Dumbledore in the Hospital Wing",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-dumbledore-in-the-hospital-wing.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-dumbledore-in-the-hospital-wing/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "thus": {
+    "film": 7,
+    "caption": "Harry leaves the tent",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-leaves-the-tent.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-leaves-the-tent/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "bark": {
+    "film": 5,
+    "caption": "Kreacher the house-elf",
+    "imageUrl": "https://media.harrypotterfanzone.com/kreacher-the-house-elf.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/kreacher-the-house-elf/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "height": {
+    "film": 6,
+    "caption": "Draco with wand at the ready",
+    "imageUrl": "https://media.harrypotterfanzone.com/draco-with-wand-at-the-ready.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-with-wand-at-the-ready/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "tax": {
+    "film": 6,
+    "caption": "Fred and George at Weasleys’ Wizard Wheezes",
+    "imageUrl": "https://media.harrypotterfanzone.com/fred-and-george-at-the-joke-shop.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fred-and-george-at-the-joke-shop/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "melt": {
+    "film": 5,
+    "caption": "Harry possessed by Voldemort",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-possessed-by-voldemort.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-possessed-by-voldemort/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "complex": {
+    "film": 7,
+    "caption": "Harry and Hermione in Godric’s Hollow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-hermione-in-godrics-hollow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-hermione-in-godrics-hollow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "studio": {
+    "film": 3,
+    "caption": "Slytherin students",
+    "imageUrl": "https://media.harrypotterfanzone.com/slytherin-students.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slytherin-students/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "jewel": {
+    "film": 4,
+    "caption": "Hagrid and Madame Maxime at the Yule Ball",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-madame-maxime-at-the-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-madame-maxime-at-the-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "plug": {
+    "film": 2,
+    "caption": "Hermione petrified",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-petrified.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-petrified/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "inspection": {
+    "film": 1,
+    "caption": "Ron and Harry in class",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-harry-in-class.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-harry-in-class/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "secure": {
+    "film": 8,
+    "caption": "Harry in the courtyard rubble",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-the-courtyard-rubble.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-the-courtyard-rubble/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "comfort": {
+    "film": 8,
+    "caption": "Harry takes Snape’s memories to the Pensieve",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-takes-snapes-memory-to-the-pensieve.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-takes-snapes-memory-to-the-pensieve/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "origin": {
+    "film": 1,
+    "caption": "Hagrid arrives with baby Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/hagrid-arrives-with-baby-harry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hagrid-arrives-with-baby-harry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "heaven": {
+    "film": 2,
+    "caption": "Professor McGonagall in her classroom",
+    "imageUrl": "https://media.harrypotterfanzone.com/professor-mcgonagall-in-her-classroom.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/professor-mcgonagall-in-her-classroom/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "physics": {
+    "film": 4,
+    "caption": "Barry Crouch Junior conjures the Dark Mark",
+    "imageUrl": "https://media.harrypotterfanzone.com/barty-crouch-jr-cast-the-dark-mark.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/barty-crouch-jr-cast-the-dark-mark/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "summit": {
+    "film": 3,
+    "caption": "The trio in the Shrieking Shack",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-in-the-shrieking-shack.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-in-the-shrieking-shack/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "homeless": {
+    "film": 7,
+    "caption": "Harry and Ron and the Lovegood house",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ron-at-the-lovegood-house.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ron-at-the-lovegood-house/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "refusal": {
+    "film": 5,
+    "caption": "Ralph Fiennes and Michael Gambon in the Ministry of Magic",
+    "imageUrl": "https://media.harrypotterfanzone.com/ralph-fiennes-michael-gambon-ministry-of-magic.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ralph-fiennes-michael-gambon-ministry-of-magic/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "observe": {
+    "film": 6,
+    "caption": "Neville and Hermione at the Slug Club",
+    "imageUrl": "https://media.harrypotterfanzone.com/neville-and-hermione-at-the-slug-club.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/neville-and-hermione-at-the-slug-club/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "deed": {
+    "film": 6,
+    "caption": "Dumbledore visits the orphanage",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-at-the-orphanage.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-at-the-orphanage/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "qualify": {
+    "film": 5,
+    "caption": "McGonagall, Snape and Umbridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/mcgonagall-snape-and-umbridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/mcgonagall-snape-and-umbridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "lightly": {
+    "film": 7,
+    "caption": "Harry and Ginny at the Burrow",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ginny-at-the-burrow.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ginny-at-the-burrow/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "management": {
+    "film": 3,
+    "caption": "The Knight Bus in London",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-knight-bus-in-london.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-knight-bus-in-london/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "suspicion": {
+    "film": 4,
+    "caption": "Argus Filch at Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/argus-filtch-at-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/argus-filtch-at-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "sponge": {
+    "film": 2,
+    "caption": "Ron vomits slugs",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-vomits-slugs.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-vomits-slugs/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "preference": {
+    "film": 1,
+    "caption": "Dumbledore delivers baby Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-delivers-baby-harry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-delivers-baby-harry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "instance": {
+    "film": 8,
+    "caption": "Ron and Hermione with the Marauder’s Map",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-and-hermione-with-the-marauders-map.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-and-hermione-with-the-marauders-map/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "acceptance": {
+    "film": 8,
+    "caption": "Ginny on the Hogwarts bridge",
+    "imageUrl": "https://media.harrypotterfanzone.com/ginny-on-the-hogwarts-bridge.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ginny-on-the-hogwarts-bridge/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "function": {
+    "film": 1,
+    "caption": "Preparing for Quidditch",
+    "imageUrl": "https://media.harrypotterfanzone.com/preparing-for-quidditch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/preparing-for-quidditch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "disturbance": {
+    "film": 2,
+    "caption": "Ginny Weasley in the Chamber of Secrets",
+    "imageUrl": "https://media.harrypotterfanzone.com/ginny-weasley-lies-in-the-chamber-of-secrets.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ginny-weasley-lies-in-the-chamber-of-secrets/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "sweat": {
+    "film": 4,
+    "caption": "Frank Bryce",
+    "imageUrl": "https://media.harrypotterfanzone.com/frank-bryce.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/frank-bryce/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "mentally": {
+    "film": 3,
+    "caption": "Ron in Hogsmeade",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-in-hogsmeade.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-in-hogsmeade/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "economic": {
+    "film": 7,
+    "caption": "Lord Voldemort stares",
+    "imageUrl": "https://media.harrypotterfanzone.com/lord-voldemort-stares-down.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/lord-voldemort-stares-down/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "fashionable": {
+    "film": 5,
+    "caption": "Sirius and Harry in the Department of Mysteries",
+    "imageUrl": "https://media.harrypotterfanzone.com/sirius-and-harry-behind-a-rock.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/sirius-and-harry-behind-a-rock/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "imaginary": {
+    "film": 6,
+    "caption": "Dumbledore and Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-and-harry-half-blood-prince.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-and-harry-half-blood-prince/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "hazard": {
+    "film": 6,
+    "caption": "Slughorn’s Potions classroom",
+    "imageUrl": "https://media.harrypotterfanzone.com/slughorns-potions-classroom.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/slughorns-potions-classroom/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "respond": {
+    "film": 5,
+    "caption": "Umbridge in her office",
+    "imageUrl": "https://media.harrypotterfanzone.com/umbridge-and-cat-portraits.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/umbridge-and-cat-portraits/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "waterfall": {
+    "film": 7,
+    "caption": "Viktor Krum and Hermione Granger dance at the wedding",
+    "imageUrl": "https://media.harrypotterfanzone.com/hermione-krum-wedding-deathly-hallows-part-1.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hermione-krum-wedding-deathly-hallows-part-1/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "shallow": {
+    "film": 3,
+    "caption": "Buckbeak roars",
+    "imageUrl": "https://media.harrypotterfanzone.com/buckbeak-roars.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/buckbeak-roars/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "interval": {
+    "film": 4,
+    "caption": "Harry, Ron and the Patil twins",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-patil-twins-yule-ball.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-patil-twins-yule-ball/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "benefit": {
+    "film": 2,
+    "caption": "Repotting the Mandrakes",
+    "imageUrl": "https://media.harrypotterfanzone.com/repotting-the-mandrakes.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/repotting-the-mandrakes/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "whale": {
+    "film": 1,
+    "caption": "Garrick Ollivander",
+    "imageUrl": "https://media.harrypotterfanzone.com/ollivander-very-curious.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ollivander-very-curious/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "coal": {
+    "film": 8,
+    "caption": "Harry during the Battle of Hogwarts",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-during-the-battle-of-hogwarts.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-during-the-battle-of-hogwarts/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "tick": {
+    "film": 8,
+    "caption": "Harry with wand at the ready",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-with-wand-at-the-ready.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-with-wand-at-the-ready/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
+    "captionMatchScore": 0
+  },
+  "primitive": {
+    "film": 1,
+    "caption": "Harry with his wand",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-with-his-wand.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-with-his-wand/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
+    "captionMatchScore": 0
+  },
+  "tend": {
+    "film": 2,
+    "caption": "Ron receives a Howler",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-receives-a-howler.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-receives-a-howler/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-2/",
+    "captionMatchScore": 0
+  },
+  "vein": {
+    "film": 4,
+    "caption": "Fleur before the First Task",
+    "imageUrl": "https://media.harrypotterfanzone.com/fleur-before-the-first-task.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/fleur-before-the-first-task/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
+    "captionMatchScore": 0
+  },
+  "cord": {
+    "film": 3,
+    "caption": "The trio in the pumpkin patch",
+    "imageUrl": "https://media.harrypotterfanzone.com/the-trio-in-the-pumpkin-patch.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-trio-in-the-pumpkin-patch/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  },
+  "compose": {
+    "film": 7,
+    "caption": "Remus Lupin interrogates Harry",
+    "imageUrl": "https://media.harrypotterfanzone.com/remus-lupin-interrogates-harry.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/remus-lupin-interrogates-harry/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "curiosity": {
+    "film": 5,
+    "caption": "Sirius and Harry in the Department of Mysteries",
+    "imageUrl": "https://media.harrypotterfanzone.com/sirius-and-harry-in-the-department-of-mysteries.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/sirius-and-harry-in-the-department-of-mysteries/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "bureau": {
+    "film": 6,
+    "caption": "Harry in a corridor",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-in-a-corridor.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-in-a-corridor/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "substantial": {
+    "film": 6,
+    "caption": "Harry and Ginny in the Room of Requirement",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ginny-in-the-room-of-requirement.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ginny-in-the-room-of-requirement/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0
+  },
+  "beast": {
+    "film": 5,
+    "caption": "Portrait of Ron Weasley",
+    "imageUrl": "https://media.harrypotterfanzone.com/ron-weasley-order-of-the-phoenix-portrait-10.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ron-weasley-order-of-the-phoenix-portrait-10/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
+    "captionMatchScore": 0
+  },
+  "clip": {
+    "film": 7,
+    "caption": "Harry consults the Daily Prophet",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-consults-the-daily-prophet.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-consults-the-daily-prophet/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
+    "captionMatchScore": 0
+  },
+  "peanut": {
+    "film": 3,
+    "caption": "Hogwarts staircases",
+    "imageUrl": "https://media.harrypotterfanzone.com/hogwarts-staircases.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/hogwarts-staircases/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-3/",
+    "captionMatchScore": 0
+  }
+}

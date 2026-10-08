@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#101a17">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" sizes="1254x1254" href="assets/app-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Gentlemen English</title>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">GE</span><span>Gentlemen<br><strong>English</strong></span></div>
+      <div class="balance" aria-label="Баланс игровых монет"><img src="assets/coin.png" alt="Монеты"><strong id="balance">0</strong></div>
+    </header>
+    <main>
+      <section id="study" class="view active">
+        <div class="eyebrow">Ирина Ивановна одобряет</div>
+        <h1>Учи инглиш с кайфом,<br><em>Санелик</em></h1>
+        <div class="stats"><div><strong id="today-count">0</strong><small>сегодня</small></div><div><strong id="due-count">0</strong><small>повторить</small></div><div><strong id="new-count">0</strong><small>новых сегодня</small></div></div>
+        <div class="deck-select" role="group" aria-label="Выбор темы">
+          <button data-deck="gentlemen" class="selected">Джентльмены · 2 сезон</button><button data-deck="dark">Тьма</button><button data-deck="potter">Гарри Поттер</button>
+        </div>
+        <div id="study-empty" class="empty hidden"><h2>Тема пройдена</h2><p>Все новые слова этой темы уже открыты. Повторения появятся по расписанию FSRS.</p></div>
+        <article id="flashcard" class="flashcard">
+          <div class="card-photo"><img id="card-image" alt="Тематическая иллюстрация"><div class="photo-shade"></div><span id="card-theme" class="photo-label"></span></div>
+          <div class="card-content"><div class="card-meta"><span id="card-level"></span><span id="card-position"></span></div><div class="word-line"><h2 id="card-word"></h2><button id="play-audio" class="sound-button" aria-label="Произнести слово">▶</button></div><p id="card-translation" class="translation hidden"></p><p id="card-audio-error" class="audio-error hidden">Не удалось воспроизвести произношение. Попробуйте ещё раз.</p><p id="image-context" class="image-context hidden"></p><div class="card-links"><a id="audio-source" target="_blank" rel="noopener">Аудио ↗</a><span>·</span><a id="image-source" class="hidden" target="_blank" rel="noopener">Источник изображения ↗</a><span id="image-theme-label">Иллюстрация темы</span></div></div>
+        </article>
+        <button id="flip-button" class="primary-button">Показать перевод</button>
+        <div id="rating-area" class="ratings hidden"><div class="ratings-label">Насколько легко вспомнилось?</div><div class="rating-grid"><button data-rating="1">Снова</button><button data-rating="2">Трудно</button><button data-rating="3">Хорошо</button><button data-rating="4">Легко</button></div></div>
+      </section>
+      <section id="garage" class="view">
+        <div class="eyebrow">Всякие айтемы</div><h1 id="location-title">Прокачай<br><em>Эдди)))</em></h1>
+        <div class="location-row" role="group" aria-label="Выбор локации"><button data-location="lab" class="selected">Лаборатория</button><button data-location="mansion">Особняк</button><button data-location="garage">Гараж</button></div>
+        <div class="garage-scene"><img id="location-background" src="assets/locations/lab.png" alt="Лаборатория"><img id="hero" class="hero" src="assets/hero.png" alt="Твой персонаж"><div id="scene-items" class="scene-items"></div></div>
+        <div class="scene-caption"><span id="scene-message">Твоя коллекция растёт с каждым повторением</span><strong id="owned-count">0 предметов</strong></div>
+        <div id="owned-gallery" class="owned-gallery" aria-label="Купленные предметы"></div>
+        <div class="section-heading"><h2>Магазин</h2><span>Покупки появляются в локации</span></div>
+        <div id="shop-list" class="shop-list"></div>
+        <p class="small-note">Выбранная локация и покупки сохраняются вместе с прогрессом.</p>
+      </section>
+      <section id="library" class="view"><div class="eyebrow">ТВОИ КОЛЛЕКЦИИ</div><h1><span id="library-total">0</span> слов.<br><em>Три мира.</em></h1><div id="deck-cards" class="deck-cards"></div><p class="small-note">Коллекцию можно пополнять новыми словами. Кадры относятся к трём мирам; это не расшифровки диалогов.</p></section>
+      <section id="settings" class="view"><div class="eyebrow">ЛИЧНОЕ ХРАНИЛИЩЕ</div><h1>Твой прогресс<br><em>с тобой.</em></h1><div class="settings-card"><h2>Прогресс на этом iPhone</h2><p>Все ответы, сроки FSRS, баланс и покупки автоматически сохраняются в отдельный файл <code>progress.json</code> внутри закрытого хранилища приложения.</p><div id="storage-status" class="storage-status">Подключение хранилища…</div><button id="export-button" class="outline-button">Экспортировать в «Файлы»</button><label class="outline-button import-label">Восстановить из файла<input id="import-input" type="file" accept="application/json,.json" hidden></label></div><div class="settings-card"><h2>Повторения</h2><p>FSRS · целевое запоминание 90% · новые слова без дневного лимита · все назначенные повторения.</p></div><div class="settings-card"><h2>Источники</h2><p>Для карточек используются записи Wiktionary / Wikimedia Commons и американский голос устройства, если записи нет. Ссылки на источники кадров указаны в карточках.</p></div></section>
+    </main>
+    <nav class="bottom-nav" aria-label="Навигация"><button data-view="study" class="active"><span>A</span>Учить</button><button data-view="garage"><span>▣</span>Персонаж</button><button data-view="library"><span>▤</span>Темы</button><button data-view="settings"><span>⚙</span>Профиль</button></nav>
+  </div>
+  <script src="vendor/ts-fsrs.umd.js"></script><script src="app.js?v=17"></script>
+</body>
+</html>
