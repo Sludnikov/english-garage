@@ -97,11 +97,12 @@
   },
   "shell": {
     "film": 8,
-    "caption": "Hermione, Harry and the mirror fragment",
-    "imageUrl": "https://media.harrypotterfanzone.com/harry-hermione-and-the-mirror-fragment.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-hermione-and-the-mirror-fragment/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
-    "captionMatchScore": 0
+    "caption": "Seashells on the windowsill of Shell Cottage",
+    "imageUrl": "https://1.bp.blogspot.com/-nohJ74-Q8zo/UXBgh8EeqSI/AAAAAAAAMRs/XwzNyOVdhfw/s1600/harry%2Bpotter%2Bshell%2Bcottage%2Bwindow.jpg",
+    "pageUrl": "https://frommoontomoon.blogspot.com/2013/04/the-home-of-bill-weasley-and-fleur.html",
+    "galleryUrl": "https://frommoontomoon.blogspot.com/2013/04/the-home-of-bill-weasley-and-fleur.html",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "walking": {
     "film": 1,
@@ -128,12 +129,13 @@
     "captionMatchScore": 0
   },
   "cross": {
-    "film": 1,
-    "caption": "Harry pushes his trunk at King’s Cross",
-    "imageUrl": "https://media.harrypotterfanzone.com/harry-pushes-his-trunk-at-kings-cross.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-pushes-his-trunk-at-kings-cross/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-1/",
-    "captionMatchScore": 12
+    "film": 6,
+    "caption": "People cross the Millennium Bridge",
+    "imageUrl": "https://ilarge.lisimg.com/image/684397/740full-harry-potter-and-the-half--blood-prince-screenshot.jpg",
+    "pageUrl": "https://www.listal.com/viewimage/684397",
+    "galleryUrl": "https://www.listal.com/viewimage/684397",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "hearing": {
     "film": 5,
@@ -896,12 +898,13 @@
     "captionMatchScore": 0
   },
   "soap": {
-    "film": 6,
-    "caption": "Draco Malfoy holds up his wand",
-    "imageUrl": "https://media.harrypotterfanzone.com/draco-malfoy-holds-up-his-wand.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/draco-malfoy-holds-up-his-wand/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
-    "captionMatchScore": 0
+    "film": 4,
+    "caption": "Soap bubbles in the Prefects’ Bathroom",
+    "imageUrl": "https://i.pinimg.com/originals/6e/d8/b0/6ed8b06eb9110c80d6f840db475bda3a.jpg",
+    "pageUrl": "https://i.pinimg.com/originals/6e/d8/b0/6ed8b06eb9110c80d6f840db475bda3a.jpg",
+    "galleryUrl": "https://www.pinterest.com/pin/184084703492903657/",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "success": {
     "film": 5,
@@ -960,12 +963,13 @@
     "captionMatchScore": 0
   },
   "rate": {
-    "film": 8,
-    "caption": "Harry, Hermione and Ron watch on",
-    "imageUrl": "https://media.harrypotterfanzone.com/harry-ron-and-hermione-watch-on.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-ron-and-hermione-watch-on/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-8/",
-    "captionMatchScore": 0
+    "film": 3,
+    "caption": "The Knight Bus racing through London",
+    "imageUrl": "https://images.pottermore.com/bxd3o8b291gf/6dRAlXc5r2soekACIWkKGM/0c83cfc38eefdd13b33156baa40024bc/WB_F3_TheKnightBus_KnightBusInMotion_HP3-FX-05.jpg?w=1200",
+    "pageUrl": "https://www.harrypotter.com/fact-file/objects/the-knight-bus",
+    "galleryUrl": "https://www.harrypotter.com/fact-file/objects/the-knight-bus",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "represent": {
     "film": 1,
@@ -1008,12 +1012,13 @@
     "captionMatchScore": 0
   },
   "cream": {
-    "film": 5,
-    "caption": "Ralph Fiennes, Helena Bonham-Carter, Michael Gambon and Dan Radcliffe",
-    "imageUrl": "https://media.harrypotterfanzone.com/ralph-fiennes-helena-bonham-carter-michael-gambon-dan-radcliffe.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/ralph-fiennes-helena-bonham-carter-michael-gambon-dan-radcliffe/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
-    "captionMatchScore": 0
+    "film": 6,
+    "caption": "Hermione with froth from a creamy butterbeer",
+    "imageUrl": "https://images.ctfassets.net/usf1vwtuqyxm/4CqtYU9oOQagGaoWYaeSiM/dc4361a953ee378f6add8b8595c54953/WB_F6_HermioneWithButterbeerOnUpperLip_HP6D-09923r.jpg?f=top&fit=fill&w=1200",
+    "pageUrl": "https://www.harrypotter.com/features/5-times-hermione-didnt-get-it-quite-right",
+    "galleryUrl": "https://www.harrypotter.com/features/5-times-hermione-didnt-get-it-quite-right",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "whole": {
     "film": 6,
@@ -1032,20 +1037,22 @@
     "captionMatchScore": 0
   },
   "romance": {
-    "film": 5,
-    "caption": "The Advance Guard prepare to fly",
-    "imageUrl": "https://media.harrypotterfanzone.com/the-advance-guard-prepare-to-fly.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/the-advance-guard-prepare-to-fly/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-5/",
-    "captionMatchScore": 0
+    "film": 7,
+    "caption": "Harry and Ginny kiss",
+    "imageUrl": "https://media.harrypotterfanzone.com/harry-and-ginny-kiss-deathly-hallows.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ginny-kiss-deathly-hallows/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/pictures/harry-and-ginny-kiss-deathly-hallows/",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "heat": {
-    "film": 7,
-    "caption": "Harry explores Grimmauld Place",
-    "imageUrl": "https://media.harrypotterfanzone.com/harry-at-grimmauld-place-deathly-hallows-part-1.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/harry-at-grimmauld-place-deathly-hallows-part-1/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-7/",
-    "captionMatchScore": 0
+    "film": 6,
+    "caption": "Dumbledore surrounded by intense fire",
+    "imageUrl": "https://media.harrypotterfanzone.com/dumbledore-in-the-cave-half-blood-prince.jpg",
+    "pageUrl": "https://www.harrypotterfanzone.com/pictures/dumbledore-in-the-cave-half-blood-prince/",
+    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-6/",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "unknown": {
     "film": 3,
@@ -1056,12 +1063,13 @@
     "captionMatchScore": 0
   },
   "electric": {
-    "film": 4,
-    "caption": "Viktor Krum with wand in the maze",
-    "imageUrl": "https://media.harrypotterfanzone.com/viktor-krum-with-wand-in-the-maze.jpg",
-    "pageUrl": "https://www.harrypotterfanzone.com/pictures/viktor-krum-with-wand-in-the-maze/",
-    "galleryUrl": "https://www.harrypotterfanzone.com/harry-potter-movie-stills/movie-4/",
-    "captionMatchScore": 0
+    "film": 7,
+    "caption": "Lightning over Hogwarts from The Deathly Hallows: Part 1",
+    "imageUrl": "https://i.gzn.jp/img/2010/09/24/harry_potter_deathly_hallows_trailer/hp7_part1_05.jpg",
+    "pageUrl": "https://gigazine.net/news/20100924_harry_potter_deathly_hallows_trailer/",
+    "galleryUrl": "https://gigazine.net/news/20100924_harry_potter_deathly_hallows_trailer/",
+    "captionMatchScore": 0,
+    "manuallyCurated": true
   },
   "pleasant": {
     "film": 2,
