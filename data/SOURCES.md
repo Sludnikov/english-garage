@@ -3,6 +3,7 @@
 - `LexiCore_5000.csv`: [X-Trivle/LexiCore](https://github.com/X-Trivle/LexiCore), CC BY 4.0. Used for rough global rank and CEFR filtering.
 - Russian draft translations: [Vocab Bloom Hub](https://vocab-bloom-hub.com/en/docs/data-license), CC BY 4.0. Source JSONL files were used to build `dist/cards.json`; they are not bundled because they contain a much larger corpus.
 - US pronunciation path index: [compact Wiktionary dictionary](https://github.com/tdulcet/compact-dictionaries), built from Wiktionary. The cards include direct Wikimedia Commons file pages, file authors and file licenses as fetched by `scripts/verify_audio.py`.
+- Local AAC pronunciations in `dist/assets/audio/` were rendered with [Piper's en_US-kristin-medium voice](https://huggingface.co/rhasspy/piper-voices/blob/main/en/en_US/kristin/medium/MODEL_CARD), trained from public-domain LibriVox recordings. The local files are the primary playback source; Wikimedia recordings remain as a fallback.
 - Garage and avatar art was generated specifically for English Garage. Card photos are stored in `dist/assets/`; each card's `imageSource` links to the source of its film or series frame.
 
 The card data is a derived educational set. It still needs human linguistic review and a separate meaning-specific image for each card before it satisfies the full specification.

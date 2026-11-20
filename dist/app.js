@@ -60,10 +60,10 @@
     const audioSource=$('audio-source');
     if(!current.audio){
       audioSource.removeAttribute('href');
-      audioSource.textContent='Произношение: голос устройства · en-US';
+      audioSource.textContent='Произношение: аудиофайл приложения · en-US';
     }else{
       audioSource.href=current.audioAttribution;
-      audioSource.textContent='Голос устройства · запись: '+(current.audioCredit||'Wikimedia')+' · '+(current.audioLicense||'Commons')+' ↗';
+      audioSource.textContent='Аудио в приложении · исходная запись: '+(current.audioCredit||'Wikimedia')+' · '+(current.audioLicense||'Commons')+' ↗';
     }
     $('card-audio-error').classList.add('hidden');
     $('image-context').textContent=current.imageContext||'';
@@ -108,24 +108,18 @@
   function showView(view){document.querySelectorAll('.view').forEach(e=>e.classList.toggle('active',e.id===view));document.querySelectorAll('.bottom-nav button').forEach(e=>e.classList.toggle('active',e.dataset.view===view));if(view==='garage')renderGarage();if(view==='library')renderDecks();window.scrollTo(0,0);}
   function buy(id){const item=SHOP.find(i=>i.id===id);if(!item||state.owned.includes(id)||state.balance<item.price)return;state.balance-=item.price;state.owned.push(id);save();renderStats();renderGarage();$('scene-message').textContent=item.name+' добавлен в локацию';document.querySelector('.garage-scene').scrollIntoView({behavior:'smooth',block:'center'});}
   function rate(value){if(!current||!flipped)return;const now=new Date(),id=current.id,isNew=!state.schedule[id];const prior=isNew?FSRS.createEmptyCard(now):revived(state.schedule[id]);const result=fsrs.repeat(prior,now)[value];if(!result)return;state.schedule[id]=result.card;state.history.push({cardId:id,at:now.toISOString(),rating:value,due:result.card.due});if(isNew){const key=dayKey(now);state.newStarted[key]=(state.newStarted[key]||0)+1;}const rewardKey=id+':'+dayKey(now);if(!state.rewarded[rewardKey]){state.rewarded[rewardKey]=true;state.balance+=Math.round(10*(1+bonus()));}save();renderCard();}
-  async function playRecording(card,id){
-    if(!card.audio){if(id===playbackId)$('card-audio-error').classList.remove('hidden');return;}
-    const audio=new Audio(card.audio);
+  async function playFile(url){
+    const audio=new Audio(url);
     activeAudio=audio;
-    try{await audio.play();}catch(e){if(id===playbackId)$('card-audio-error').classList.remove('hidden');}
+    try{await audio.play();return true;}catch(e){return false;}
   }
-  function play(){
-    if(!current)return;
-    const card=current,id=++playbackId;
-    $('card-audio-error').classList.add('hidden');
-    // iOS otherwise treats speech as ambient audio and mutes it with the Ring/Silent switch.
-    if(navigator.audioSession)try{navigator.audioSession.type='playback';}catch(e){}
-    if(activeAudio){activeAudio.pause();activeAudio=null;}
-    if('speechSynthesis'in window)speechSynthesis.cancel();
-    activeUtterance=null;
-    if(!('speechSynthesis'in window)||!('SpeechSynthesisUtterance'in window)){playRecording(card,id);return;}
+  function playVoice(card,id){
+    if(!('speechSynthesis'in window)||!('SpeechSynthesisUtterance'in window)){
+      if(id===playbackId)$('card-audio-error').classList.remove('hidden');
+      return;
+    }
     let started=false,fallbackStarted=false;
-    const fallback=()=>{if(id!==playbackId||fallbackStarted)return;fallbackStarted=true;activeUtterance=null;playRecording(card,id);};
+    const fail=()=>{if(id!==playbackId||fallbackStarted)return;fallbackStarted=true;activeUtterance=null;$('card-audio-error').classList.remove('hidden');};
     try{
       const utterance=new SpeechSynthesisUtterance(card.word);
       activeUtterance=utterance;
@@ -136,14 +130,27 @@
       if(voice)utterance.voice=voice;
       utterance.onstart=()=>{started=true;};
       utterance.onend=()=>{if(id===playbackId)activeUtterance=null;};
-      utterance.onerror=fallback;
+      utterance.onerror=fail;
       speechSynthesis.speak(utterance);
-      setTimeout(()=>{if(id===playbackId&&!started&&activeUtterance===utterance){speechSynthesis.cancel();fallback();}},4000);
-    }catch(e){fallback();}
+      setTimeout(()=>{if(id===playbackId&&!started&&activeUtterance===utterance){speechSynthesis.cancel();fail();}},4000);
+    }catch(e){fail();}
+  }
+  async function play(){
+    if(!current)return;
+    const card=current,id=++playbackId;
+    $('card-audio-error').classList.add('hidden');
+    if(navigator.audioSession)try{navigator.audioSession.type='playback';}catch(e){}
+    if(activeAudio){activeAudio.pause();activeAudio=null;}
+    if('speechSynthesis'in window)speechSynthesis.cancel();
+    activeUtterance=null;
+    if(await playFile('assets/audio/'+card.id+'.m4a'))return;
+    if(id!==playbackId)return;
+    if(card.audio&&await playFile(card.audio))return;
+    if(id===playbackId)playVoice(card,id);
   }
   async function exportProgress(){await saveQueue;const content=JSON.stringify(state,null,2),name='english-garage-progress-'+dayKey()+'.json',file=new File([content],name,{type:'application/json'});if(navigator.share&&navigator.canShare?.({files:[file]})){try{await navigator.share({files:[file],title:'English Garage — прогресс'});return;}catch(e){if(e.name==='AbortError')return;}}const url=URL.createObjectURL(file),a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),10000);}
   async function importProgress(file){try{const parsed=JSON.parse(await file.text());if(parsed.version!==1||!parsed.schedule||!Array.isArray(parsed.owned)||!Array.isArray(parsed.history)||!parsed.rewarded||typeof parsed.balance!=='number'||parsed.balance<0)throw new Error('Неверный формат progress.json');for(const id of Object.keys(parsed.schedule))if(!byId.has(id))throw new Error('Файл содержит неизвестные карточки');state={...state,...parsed};state.settings={retention:.9,...state.settings};delete state.settings.dailyNewLimit;await save();renderCard();renderGarage();renderDecks();setStatus('Прогресс восстановлен и сохранён');}catch(e){setStatus('Не удалось импортировать: '+e.message,true);}}
-  async function start(){try{cards=await (await fetch('cards.json?v=20',{cache:'no-store'})).json();if(!Array.isArray(cards)||!cards.length)throw new Error('Карточки не загрузились');byId=new Map(cards.map(c=>[c.id,c]));if(byId.size!==cards.length)throw new Error('Найдены повторяющиеся ID карточек');const saved=await storage('read');if(saved){if(saved.version!==1)throw new Error('Неподдерживаемая версия progress.json');state={...state,...saved};state.settings={retention:.9,...state.settings};delete state.settings.dailyNewLimit;}setStatus('Прогресс хранится в OPFS · progress.json');renderCard();renderGarage();renderDecks();}catch(e){setStatus('Не удалось открыть данные: '+e.message,true);$('study-empty').classList.remove('hidden');$('flashcard').classList.add('hidden');$('flip-button').classList.add('hidden');}}
+  async function start(){try{cards=await (await fetch('cards.json?v=21',{cache:'no-store'})).json();if(!Array.isArray(cards)||!cards.length)throw new Error('Карточки не загрузились');byId=new Map(cards.map(c=>[c.id,c]));if(byId.size!==cards.length)throw new Error('Найдены повторяющиеся ID карточек');const saved=await storage('read');if(saved){if(saved.version!==1)throw new Error('Неподдерживаемая версия progress.json');state={...state,...saved};state.settings={retention:.9,...state.settings};delete state.settings.dailyNewLimit;}setStatus('Прогресс хранится в OPFS · progress.json');renderCard();renderGarage();renderDecks();}catch(e){setStatus('Не удалось открыть данные: '+e.message,true);$('study-empty').classList.remove('hidden');$('flashcard').classList.add('hidden');$('flip-button').classList.add('hidden');}}
   document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.view)));
   document.querySelectorAll('[data-deck]').forEach(b=>b.addEventListener('click',()=>{deck=b.dataset.deck;document.querySelectorAll('[data-deck]').forEach(x=>x.classList.toggle('selected',x===b));renderCard();}));
   document.querySelectorAll('[data-rating]').forEach(b=>b.addEventListener('click',()=>rate(Number(b.dataset.rating))));
