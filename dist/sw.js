@@ -1,4 +1,4 @@
-const CACHE='english-garage-v19';
+const CACHE='english-garage-v20';
 const CORE=['./','index.html','styles.css','app.js','cards.json','manifest.webmanifest','vendor/ts-fsrs.umd.js','assets/locations/lab.png','assets/locations/mansion.png','assets/locations/garage.png','assets/hero.png','assets/gentlemen.png','assets/dark.png','assets/potter.png','assets/app-icon.png','progress-worker.js'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('english-garage-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
